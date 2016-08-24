@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	   <div>
+	   		Enter String1: <input id="id1" type="text" name="str1" value=""/>
+	   		Enter String2: <input id="id2" type="text" name="str2" value=""/>
+	   		<button onclick="func()">Compare</button>
+	   		<p id="id3"></p>
+	   		<p id="id4"></p>
+	   </div>
+
+	   <script type="text/javascript">
+	   		function func(){
+	   			var str1=document.getElementById('id1').value;
+	   			var str2=document.getElementById('id2').value;
+	   			var str3=str1.split("");
+	   			var str4=str2.split("");
+	   			var len1=str3.length;
+	   			var len2=str4.length;
+	   			var str22=document.getElementById('id1').value;
+	   			var str23=document.getElementById('id2').value;
+	   			var str24=str22.split("");
+	   			var str25=str23.split("");
+	   			var len22=str24.length;
+	   			var len23=str25.length;
+	   			console.log('len1',len1);
+	   			console.log('len2',len2);
+	   			for(var i=0; i<len1; i++){
+	   				for(var j=0; j<len2; j++){
+	   					if(str3[i] === str4[j]){
+	   						
+	   						str3[i]=null;
+	   						
+	   						break;
+	   					}
+	   				}
+	   			}
+	   			var str5=str3.toString();
+	   			var str6=str5.split(',').join('');
+	   			console.log('str6',str6);
+
+	   			for(var i=0; i<len23; i++){
+	   				for(var j=0; j<len22; j++){
+	   					if(str25[i] === str24[j]){
+	   						console.log('str25[i]',str25[i]);
+	   						str25[i]=null;
+	   						break;
+	   					}
+	   				}
+	   			}
+	   			var str7=str25.toString();
+	   			var str8=str7.split(',').join('');
+	   			console.log('str8',str8);
+	   			document.getElementById('id3').innerHTML=str6;
+	   			document.getElementById('id4').innerHTML=str8;
+
+	   		}
+
+	   		
+	   </script>
+	</body>
+</html>

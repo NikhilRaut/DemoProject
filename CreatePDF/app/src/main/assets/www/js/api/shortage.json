@@ -1,0 +1,5860 @@
+{
+    "Brand": "Bajaj Auto Ltd",
+    "product": "AfterBuy",
+    "category": "TICL",
+    "legend": [
+        {
+            "sno": "1",
+            "product_hirarchy": "001MC670JY10",
+            "material": "JY161001",
+            "brand_varient": "KTM RC 390 DOMESTIC",
+            "description": "ASSEMBLY BRAKE PEDAL KT04"
+        },
+        {
+            "sno": "2",
+            "product_hirarchy": "001MC606DH12",
+            "material": "52DJ0103",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "3",
+            "product_hirarchy": "001MC606DH12",
+            "material": "61090203",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "4",
+            "product_hirarchy": "001MC606DH12",
+            "material": "71111177",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "PRINTED COMBINED O&M DISCOVER 100 & 150"
+            
+        },
+        {
+            "sno": "5",
+            "product_hirarchy": "001MC606DH12",
+            "material": "71111178",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "PRINTED COMBINED O&M PULSAR 150 & 180"
+        },
+        {
+            "sno": "6",
+            "product_hirarchy": "001MC606DH12",
+            "material": "DJ221003",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "7",
+            "product_hirarchy": "001MC606DH12",
+            "material": "DJ221004",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "8",
+            "product_hirarchy": "001MC606DH12",
+            "material": "DK221011",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "TOOL KIT COMPLETE"
+        },
+        {
+            "sno": "9",
+            "product_hirarchy": "001MC606DH12",
+            "material": "JN231000",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "TOOL KIT WITH BAND"
+        },
+        {
+            "sno": "10",
+            "product_hirarchy": "001MC606DH12",
+            "material": "JZ401806",
+            "brand_varient": "PULSAR 150 DTSi UG3 ES",
+            "description": "BATTERY 12 V 7AH WET"
+        },
+        {
+            "sno": "11",
+            "product_hirarchy": "001MC606DH15",
+            "material": "52DH0534",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "BATTERY COVER SIDE LH"
+        },
+        {
+            "sno": "12",
+            "product_hirarchy": "001MC606DH15",
+            "material": "52DH0535",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "BATTERY COVER SIDE RH"
+        },
+        {
+            "sno": "13",
+            "product_hirarchy": "001MC606DH15",
+            "material": "52DJ0103",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "14",
+            "product_hirarchy": "001MC606DH15",
+            "material": "52DJ0133",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "GUARD LEG ASSY"
+        },
+        {
+            "sno": "15",
+            "product_hirarchy": "001MC606DH15",
+            "material": "52DJ0166",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "CHAIN-CASE ASSLY BLACK ( UPPER & LOWER )"
+        },
+        {
+            "sno": "16",
+            "product_hirarchy": "001MC606DH15",
+            "material": "61090203",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "17",
+            "product_hirarchy": "001MC606DH15",
+            "material": "71110117",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "PULSAR DTSI 150CC O & M"
+        },
+        {
+            "sno": "18",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DH101468",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "SHIELD - MUFFLER"
+        },
+        {
+            "sno": "19",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DH101545",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "LEVER KICK STARTER"
+        },
+        {
+            "sno": "20",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DH111072",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "CDI"
+        },
+        {
+            "sno": "21",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DH181069",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "LOCK SET 4 IN 1"
+        },
+        {
+            "sno": "22",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DH201076",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "DC HORN LH"
+        },
+        {
+            "sno": "23",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DH201077",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "DC HORN RH"
+        },
+        {
+            "sno": "24",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DH201080",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "SENSOR SPEED CABLE"
+        },
+        {
+            "sno": "25",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DJ161221",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "COVER MUD REAR"
+        },
+        {
+            "sno": "26",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DJ161226",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "KIT LEG GUARD ASSLY.-BLACK"
+        },
+        {
+            "sno": "27",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DJ221006",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "TOOLKIT WITH BAND"
+        },
+        {
+            "sno": "28",
+            "product_hirarchy": "001MC606DH15",
+            "material": "DS161187",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "COLLAR FOR MUDCOVER"
+        },
+        {
+            "sno": "29",
+            "product_hirarchy": "001MC606DH15",
+            "material": "JB401402",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "IGNITION SWITCH ASSLY"
+        },
+        {
+            "sno": "30",
+            "product_hirarchy": "001MC606DH15",
+            "material": "JZ401806",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "BATTERY 12 V 7AH WET"
+        },
+        {
+            "sno": "31",
+            "product_hirarchy": "001MC606DH15",
+            "material": "LAD00015",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "BOLT FLANGED M6X1X14"
+        },
+        {
+            "sno": "32",
+            "product_hirarchy": "001MC606DH18",
+            "material": "52DH0534",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "BATTERY COVER SIDE LH"
+        },
+        {
+            "sno": "33",
+            "product_hirarchy": "001MC606DH18",
+            "material": "52DH0535",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "BATTERY COVER SIDE RH"
+        },
+        {
+            "sno": "34",
+            "product_hirarchy": "001MC606DH18",
+            "material": "52DJ0103",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "35",
+            "product_hirarchy": "001MC606DH18",
+            "material": "52DJ0133",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "GUARD LEG ASSY"
+        },
+        {
+            "sno": "36",
+            "product_hirarchy": "001MC606DH18",
+            "material": "52DJ0166",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "CHAIN-CASE ASSLY BLACK ( UPPER & LOWER )"
+        },
+        {
+            "sno": "37",
+            "product_hirarchy": "001MC606DH18",
+            "material": "61090203",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "38",
+            "product_hirarchy": "001MC606DH18",
+            "material": "71110117",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "PULSAR DTSI 150CC O & M"
+        },
+        {
+            "sno": "39",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DH101468",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "SHIELD - MUFFLER"
+        },
+        {
+            "sno": "40",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DH101545",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "LEVER KICK STARTER"
+        },
+        {
+            "sno": "41",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DH111072",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "CDI"
+        },
+        {
+            "sno": "42",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DH181069",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "LOCK SET 4 IN 1"
+        },
+        {
+            "sno": "43",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DH201076",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "DC HORN LH"
+        },
+        {
+            "sno": "44",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DH201077",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "DC HORN RH"
+        },
+        {
+            "sno": "45",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DH201080",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "SENSOR SPEED CABLE"
+        },
+        {
+            "sno": "46",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DJ161221",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "COVER MUD REAR"
+        },
+        {
+            "sno": "47",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DJ161226",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "KIT LEG GUARD ASSLY.-BLACK"
+        },
+        {
+            "sno": "48",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DJ221006",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "TOOLKIT WITH BAND"
+        },
+        {
+            "sno": "49",
+            "product_hirarchy": "001MC606DH18",
+            "material": "DS161187",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "COLLAR FOR MUDCOVER"
+        },
+        {
+            "sno": "50",
+            "product_hirarchy": "001MC606DH18",
+            "material": "JB401402",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "IGNITION SWITCH ASSLY"
+        },
+        {
+            "sno": "51",
+            "product_hirarchy": "001MC606DH18",
+            "material": "JZ401806",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "BATTERY 12 V 7AH WET"
+        },
+        {
+            "sno": "52",
+            "product_hirarchy": "001MC606DH18",
+            "material": "LAD00015",
+            "brand_varient": "Pulsar 150 UG 4.5",
+            "description": "BOLT FLANGED M6X1X14"
+        },
+        {
+            "sno": "53",
+            "product_hirarchy": "001MC607DJ04",
+            "material": "52DJ0103",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "54",
+            "product_hirarchy": "001MC607DJ04",
+            "material": "61090203",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "55",
+            "product_hirarchy": "001MC607DJ04",
+            "material": "71111178",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "PRINTED COMBINED O&M PULSAR 150 & 180"
+        },
+        {
+            "sno": "56",
+            "product_hirarchy": "001MC607DJ04",
+            "material": "DJ221003",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "57",
+            "product_hirarchy": "001MC607DJ04",
+            "material": "DJ221004",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "58",
+            "product_hirarchy": "001MC607DJ04",
+            "material": "DK221011",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "TOOL KIT COMPLETE"
+        },
+        {
+            "sno": "59",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "52DH0530",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "COVER SIDE LH WITH MESH WINE RED"
+        },
+        {
+            "sno": "60",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "52DJ0103",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "61",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "61090203",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "62",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "71111178",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "PRINTED COMBINED O&M PULSAR 150 & 180"
+        },
+        {
+            "sno": "63",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "DJ201125",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "BATTERY MF WET CHARGED 9 AH"
+        },
+        {
+            "sno": "64",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "DJ221003",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "65",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "DJ221004",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "66",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "DK201037",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "HORN LH DIA 70"
+        },
+        {
+            "sno": "67",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "DK221011",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "TOOL KIT COMPLETE"
+        },
+        {
+            "sno": "68",
+            "product_hirarchy": "001MC607DJ07",
+            "material": "JC201045",
+            "brand_varient": "PULSAR180 DIES FRG UG2",
+            "description": "IGNITION SWITCH"
+        },
+        {
+            "sno": "69",
+            "product_hirarchy": "001MC617DU10",
+            "material": "31201027",
+            "brand_varient": "CT 100-SPOKE WHEEL",
+            "description": "BATTERY"
+        },
+        {
+            "sno": "70",
+            "product_hirarchy": "001MC617DU10",
+            "material": "DJ221003",
+            "brand_varient": "CT 100-SPOKE WHEEL",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "71",
+            "product_hirarchy": "001MC617DU10",
+            "material": "DJ221004",
+            "brand_varient": "CT 100-SPOKE WHEEL",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "72",
+            "product_hirarchy": "001MC617DU10",
+            "material": "DU181032",
+            "brand_varient": "CT 100-SPOKE WHEEL",
+            "description": "LOCK ASY-VE ST.CUM IGN.SWTCH,P.TNK,S.COV"
+        },
+        {
+            "sno": "73",
+            "product_hirarchy": "001MC617DU10",
+            "material": "DU221002",
+            "brand_varient": "CT 100-SPOKE WHEEL",
+            "description": "GUARD-SARI"
+        },
+        {
+            "sno": "74",
+            "product_hirarchy": "001MC617DU10",
+            "material": "DZ201038",
+            "brand_varient": "CT 100-SPOKE WHEEL",
+            "description": "DC HORN"
+        },
+        {
+            "sno": "75",
+            "product_hirarchy": "001MC617DU10",
+            "material": "DZ221003",
+            "brand_varient": "CT 100-SPOKE WHEEL",
+            "description": "GUARD - LEG"
+        },
+        {
+            "sno": "76",
+            "product_hirarchy": "001MC617DU10",
+            "material": "PA231002",
+            "brand_varient": "CT 100-SPOKE WHEEL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "77",
+            "product_hirarchy": "001MC617DU11",
+            "material": "31201027",
+            "brand_varient": "CT 100-ALLOY WHEEL",
+            "description": "BATTERY"
+        },
+        {
+            "sno": "78",
+            "product_hirarchy": "001MC617DU11",
+            "material": "71112162",
+            "brand_varient": "CT 100 Alloy Wheel",
+            "description": "OWNERS MANUAL"
+        },
+        {
+            "sno": "79",
+            "product_hirarchy": "001MC617DU11",
+            "material": "DJ221003",
+            "brand_varient": "CT 100-ALLOY WHEEL",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "80",
+            "product_hirarchy": "001MC617DU11",
+            "material": "DJ221004",
+            "brand_varient": "CT 100-ALLOY WHEEL",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "81",
+            "product_hirarchy": "001MC617DU11",
+            "material": "DU181032",
+            "brand_varient": "CT 100-ALLOY WHEEL",
+            "description": "LOCK ASY-VE ST.CUM IGN.SWTCH,P.TNK,S.COV"
+        },
+        {
+            "sno": "82",
+            "product_hirarchy": "001MC617DU11",
+            "material": "DU221002",
+            "brand_varient": "CT 100-ALLOY WHEEL",
+            "description": "GUARD-SARI"
+        },
+        {
+            "sno": "83",
+            "product_hirarchy": "001MC617DU11",
+            "material": "DZ201038",
+            "brand_varient": "CT 100-ALLOY WHEEL",
+            "description": "DC HORN"
+        },
+        {
+            "sno": "84",
+            "product_hirarchy": "001MC617DU11",
+            "material": "DZ221003",
+            "brand_varient": "CT 100-ALLOY WHEEL",
+            "description": "GUARD - LEG"
+        },
+        {
+            "sno": "85",
+            "product_hirarchy": "001MC617DU11",
+            "material": "PA231002",
+            "brand_varient": "CT 100-ALLOY WHEEL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "86",
+            "product_hirarchy": "001MC618DK04",
+            "material": "61090203",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "87",
+            "product_hirarchy": "001MC618DK04",
+            "material": "71111152",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "PRINTED Pulsar 220 O & M Small size"
+        },
+        {
+            "sno": "88",
+            "product_hirarchy": "001MC618DK04",
+            "material": "DJ201240",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "BATTERY 12V 9AH MF WET CHARGE"
+        },
+        {
+            "sno": "89",
+            "product_hirarchy": "001MC618DK04",
+            "material": "DK161071",
+            "brand_varient": "Pul 220 SF",
+            "description": "FAIRING AIR INTAKE RH"
+        },
+        {
+            "sno": "90",
+            "product_hirarchy": "001MC618DK04",
+            "material": "DK201114",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "HORN LH"
+        },
+        {
+            "sno": "91",
+            "product_hirarchy": "001MC618DK04",
+            "material": "DK201115",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "HORN RH"
+        },
+        {
+            "sno": "92",
+            "product_hirarchy": "001MC618DK04",
+            "material": "DK221002",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "MIRROR LH"
+        },
+        {
+            "sno": "93",
+            "product_hirarchy": "001MC618DK04",
+            "material": "DK221003",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "MIRROR RH"
+        },
+        {
+            "sno": "94",
+            "product_hirarchy": "001MC618DK04",
+            "material": "DK221011",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "TOOL KIT COMPLETE"
+        },
+        {
+            "sno": "95",
+            "product_hirarchy": "001MC618DK04",
+            "material": "JC141049",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "TANK MONOGRAM LH GRY CROME"
+        },
+        {
+            "sno": "96",
+            "product_hirarchy": "001MC618DK04",
+            "material": "JC201045",
+            "brand_varient": "PULSAR 220 SF-NO COLOR",
+            "description": "IGNITION SWITCH"
+        },
+        {
+            "sno": "97",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "31201027",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "BATTERY"
+        },
+        {
+            "sno": "98",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "52DJ0103",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "99",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "61090203",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "100",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "71111180",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "PRINTED COMBINED O&M PLATINA 100 & 125CC"
+        },
+        {
+            "sno": "101",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "DJ221003",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "102",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "DJ221004",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "103",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "DZ221005",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "TOOL KIT WITH VALUE ENGINEERED TOOLS"
+        },
+        {
+            "sno": "104",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "DZ221011",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "GUARD - LEG"
+        },
+        {
+            "sno": "105",
+            "product_hirarchy": "001MC623DZ01",
+            "material": "JK231203",
+            "brand_varient": "PLATINA SPK WHL/ FR & RR DR 110",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "106",
+            "product_hirarchy": "001MC623DZ02",
+            "material": "61090203",
+            "brand_varient": "PLATINA ALY WHL/FR & RR DR130",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "107",
+            "product_hirarchy": "001MC623DZ02",
+            "material": "71110249",
+            "brand_varient": "PLATINA ALY WHL/FR & RR DR130",
+            "description": "OMM OF PLATINA"
+        },
+        {
+            "sno": "108",
+            "product_hirarchy": "001MC623DZ02",
+            "material": "DJ221003",
+            "brand_varient": "PLATINA ALY WHL/FR & RR DR130",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "109",
+            "product_hirarchy": "001MC623DZ02",
+            "material": "DJ221004",
+            "brand_varient": "PLATINA ALY WHL/FR & RR DR130",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "110",
+            "product_hirarchy": "001MC623DZ02",
+            "material": "DZ221006",
+            "brand_varient": "PLATINA ALY WHL/FR & RR DR130",
+            "description": "TOOLKIT :- VALUE ENGINEER"
+        },
+        {
+            "sno": "111",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "31201027",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "BATTERY"
+        },
+        {
+            "sno": "112",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "36DZ0006",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "KIT LEG/SAREE GUARD HARDWARE(PLATINA)"
+        },
+        {
+            "sno": "113",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "52DJ0103",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "114",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "61090203",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "115",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "71111180",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "PRINTED COMBINED O&M PLATINA 100 & 125CC"
+        },
+        {
+            "sno": "116",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "DJ221003",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "117",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "DJ221004",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "118",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "DU101050",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "LEVER ASSEMBLY COMPLETE - KICK"
+        },
+        {
+            "sno": "119",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "DZ111002",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "CDI INTELLIGENT"
+        },
+        {
+            "sno": "120",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "DZ181004",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "LOCK SET (3 IN 1) - VE"
+        },
+        {
+            "sno": "121",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "DZ221005",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "TOOL KIT WITH VALUE ENGINEERED TOOLS"
+        },
+        {
+            "sno": "122",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "DZ221011",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "GUARD - LEG"
+        },
+        {
+            "sno": "123",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "DZ73022V",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "SIDE COVER RH PAINTED COCKTAIL WINE RED"
+        },
+        {
+            "sno": "124",
+            "product_hirarchy": "001MC623DZ10",
+            "material": "JK231203",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "125",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "31201027",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "BATTERY"
+        },
+        {
+            "sno": "126",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "36DZ0006",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "KIT LEG/SAREE GUARD HARDWARE(PLATINA)"
+        },
+        {
+            "sno": "127",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "52DJ0103",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "128",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "61090203",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "129",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "71111180",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "PRINTED COMBINED O&M PLATINA 100 & 125CC"
+        },
+        {
+            "sno": "130",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "DJ221003",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "131",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "DJ221004",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "132",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "DU101050",
+            "brand_varient": "PLATINA 100 BLACK-NO COLOR",
+            "description": "LEVER ASSEMBLY COMPLETE - KICK"
+        },
+        {
+            "sno": "133",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "DZ111002",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "CDI INTELLIGENT"
+        },
+        {
+            "sno": "134",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "DZ181004",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "LOCK SET (3 IN 1) - VE"
+        },
+        {
+            "sno": "135",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "DZ221005",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "TOOL KIT WITH VALUE ENGINEERED TOOLS"
+        },
+        {
+            "sno": "136",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "DZ221011",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "GUARD - LEG"
+        },
+        {
+            "sno": "137",
+            "product_hirarchy": "001MC623DZ12",
+            "material": "JK231203",
+            "brand_varient": "PLATINA 100 SPOKE WHEEL",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "138",
+            "product_hirarchy": "001MC629JL02",
+            "material": "39024211",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "WASHER - PLAIN"
+        },
+        {
+            "sno": "139",
+            "product_hirarchy": "001MC629JL02",
+            "material": "39032615",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "NUT - NYLOC :- M5 X 0.8"
+        },
+        {
+            "sno": "140",
+            "product_hirarchy": "001MC629JL02",
+            "material": "39242001",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "SCREW - PAN HEAD :- M5"
+        },
+        {
+            "sno": "141",
+            "product_hirarchy": "001MC629JL02",
+            "material": "61090203",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "142",
+            "product_hirarchy": "001MC629JL02",
+            "material": "71111473",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "PRINTED PULSAR 200 OWNERS MANUAL-2011"
+        },
+        {
+            "sno": "143",
+            "product_hirarchy": "001MC629JL02",
+            "material": "DJ221019",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "TOOLKIT"
+        },
+        {
+            "sno": "144",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JG401800",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "12V 8AH VRLA WET BATTERY"
+        },
+        {
+            "sno": "145",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL181006",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "TUBE REAR HUGGER MTG"
+        },
+        {
+            "sno": "146",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL181229",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "SHROUD ASSY RH"
+        },
+        {
+            "sno": "147",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL181405",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "MUDFLAP -FRONT"
+        },
+        {
+            "sno": "148",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL181407",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "COVER 1-HUGGER REAR"
+        },
+        {
+            "sno": "149",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL181408",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "COVER 2-HUGGER REAR"
+        },
+        {
+            "sno": "150",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL181409",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "ASSEMBLY HUGGER REAR"
+        },
+        {
+            "sno": "151",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL231201",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "GUARD LEG LH"
+        },
+        {
+            "sno": "152",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL231203",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "GUARD LEG RH"
+        },
+        {
+            "sno": "153",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL231600",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "MIRROR ASSY LH"
+        },
+        {
+            "sno": "154",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL231601",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "MIRROR ASSY RH"
+        },
+        {
+            "sno": "155",
+            "product_hirarchy": "001MC629JL02",
+            "material": "JL401403",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "SWITCH IGNITION"
+        },
+        {
+            "sno": "156",
+            "product_hirarchy": "001MC629JL02",
+            "material": "KACA0635",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "BOLT-SOCKET-KAC ST-A DIA-06 L-35"
+        },
+        {
+            "sno": "157",
+            "product_hirarchy": "001MC629JL02",
+            "material": "KBUB0410",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "SCREW TRUS"
+        },
+        {
+            "sno": "158",
+            "product_hirarchy": "001MC629JL02",
+            "material": "KDBE0613",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "WASHER PLAIN"
+        },
+        {
+            "sno": "159",
+            "product_hirarchy": "001MC629JL02",
+            "material": "LAC00037",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "BOLT SOC-SPECIAL HEAD M6XL8"
+        },
+        {
+            "sno": "160",
+            "product_hirarchy": "001MC629JL02",
+            "material": "LAD00040",
+            "brand_varient": "Pulsar 200 NS",
+            "description": "BOLT FLANGED M6 - 6L"
+        },
+        {
+            "sno": "161",
+            "product_hirarchy": "001MC635JD01",
+            "material": "39079815",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "NUT - HEXAGON WITH FLANGE :- M6"
+        },
+        {
+            "sno": "162",
+            "product_hirarchy": "001MC635JD01",
+            "material": "61090203",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "163",
+            "product_hirarchy": "001MC635JD01",
+            "material": "71110943",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "Owners Manual Pulsar 135 LS"
+        },
+        {
+            "sno": "164",
+            "product_hirarchy": "001MC635JD01",
+            "material": "DS161166",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "TAPE - II :- FRAME"
+        },
+        {
+            "sno": "165",
+            "product_hirarchy": "001MC635JD01",
+            "material": "JA231201",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "HOOK LEG GUARD"
+        },
+        {
+            "sno": "166",
+            "product_hirarchy": "001MC635JD01",
+            "material": "JA231202",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "LEG GUARD SPACER"
+        },
+        {
+            "sno": "167",
+            "product_hirarchy": "001MC635JD01",
+            "material": "JD231000",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "168",
+            "product_hirarchy": "001MC635JD01",
+            "material": "JD231200",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "LEG GUARD KIT"
+        },
+        {
+            "sno": "169",
+            "product_hirarchy": "001MC635JD01",
+            "material": "JD231201",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "GUARD LEG"
+        },
+        {
+            "sno": "170",
+            "product_hirarchy": "001MC635JD01",
+            "material": "JD231600",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "MIRROR ASSLY LH"
+        },
+        {
+            "sno": "171",
+            "product_hirarchy": "001MC635JD01",
+            "material": "JD231601",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "MIRROR ASSLY RH"
+        },
+        {
+            "sno": "172",
+            "product_hirarchy": "001MC635JD02",
+            "material": "39079815",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "NUT - HEXAGON WITH FLANGE :- M6"
+        },
+        {
+            "sno": "173",
+            "product_hirarchy": "001MC635JD02",
+            "material": "52JD0216",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "ASSLY COVER SIDE LH JD NEW DECAL SCHM"
+        },
+        {
+            "sno": "174",
+            "product_hirarchy": "001MC635JD02",
+            "material": "61090203",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "175",
+            "product_hirarchy": "001MC635JD02",
+            "material": "71110943",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "Owners Manual Pulsar 135 LS"
+        },
+        {
+            "sno": "176",
+            "product_hirarchy": "001MC635JD02",
+            "material": "AP201029",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "STARTER RELAY 70A FOR AP"
+        },
+        {
+            "sno": "177",
+            "product_hirarchy": "001MC635JD02",
+            "material": "DK201037",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "HORN LH DIA 70"
+        },
+        {
+            "sno": "178",
+            "product_hirarchy": "001MC635JD02",
+            "material": "DK201038",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "HORN RH DIA 70"
+        },
+        {
+            "sno": "179",
+            "product_hirarchy": "001MC635JD02",
+            "material": "DS161166",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "TAPE - II :- FRAME"
+        },
+        {
+            "sno": "180",
+            "product_hirarchy": "001MC635JD02",
+            "material": "DS201081",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "181",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JA231201",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "HOOK LEG GUARD"
+        },
+        {
+            "sno": "182",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JA231202",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "LEG GUARD SPACER"
+        },
+        {
+            "sno": "183",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JA401801",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "BATTERY BAND 5 AH"
+        },
+        {
+            "sno": "184",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD181006",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "TUBE REAR HUGGER MTG"
+        },
+        {
+            "sno": "185",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD181408",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "HUGGER REAR (DOMESTIC)"
+        },
+        {
+            "sno": "186",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD231000",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "187",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD231200",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "LEG GUARD KIT"
+        },
+        {
+            "sno": "188",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD231201",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "GUARD LEG"
+        },
+        {
+            "sno": "189",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD231600",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "MIRROR ASSLY LH"
+        },
+        {
+            "sno": "190",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD231601",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "MIRROR ASSLY RH"
+        },
+        {
+            "sno": "191",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD73014M",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "COWLING LH MID BLK"
+        },
+        {
+            "sno": "192",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD73015L",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "COWLING LH PASSION RED WITH DUAL DECAL"
+        },
+        {
+            "sno": "193",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD73024M",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "COWLING RH MID BLK"
+        },
+        {
+            "sno": "194",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JD73025L",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "COWLING RH PASSION RED WITH DUAL DECAL"
+        },
+        {
+            "sno": "195",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JE351200",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "DC CDI UNIT"
+        },
+        {
+            "sno": "196",
+            "product_hirarchy": "001MC635JD02",
+            "material": "JW232601",
+            "brand_varient": "PULSAR 135LS DS ES-NO COLOR",
+            "description": "LOCK SET 3 IN 1"
+        },
+        {
+            "sno": "197",
+            "product_hirarchy": "001MC639PA01",
+            "material": "52DJ0103",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "198",
+            "product_hirarchy": "001MC639PA01",
+            "material": "61090203",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "199",
+            "product_hirarchy": "001MC639PA01",
+            "material": "71111177",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "PRINTED COMBINED O&M DISCOVER 100 & 150"
+        },
+        {
+            "sno": "200",
+            "product_hirarchy": "001MC639PA01",
+            "material": "DJ221003",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "201",
+            "product_hirarchy": "001MC639PA01",
+            "material": "DJ221004",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "202",
+            "product_hirarchy": "001MC639PA01",
+            "material": "DS201081",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "203",
+            "product_hirarchy": "001MC639PA01",
+            "material": "JZ231200",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "KIT LEG GUARD"
+        },
+        {
+            "sno": "204",
+            "product_hirarchy": "001MC639PA01",
+            "material": "PA231000",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "TOOLKIT"
+        },
+        {
+            "sno": "205",
+            "product_hirarchy": "001MC639PA02",
+            "material": "52DJ0103",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "206",
+            "product_hirarchy": "001MC639PA02",
+            "material": "61090203",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "207",
+            "product_hirarchy": "001MC639PA02",
+            "material": "71111177",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "PRINTED COMBINED O&M DISCOVER 100 & 150"
+        },
+        {
+            "sno": "208",
+            "product_hirarchy": "001MC639PA02",
+            "material": "DJ221003",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "209",
+            "product_hirarchy": "001MC639PA02",
+            "material": "DJ221004",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "210",
+            "product_hirarchy": "001MC639PA02",
+            "material": "DS201081",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "211",
+            "product_hirarchy": "001MC639PA02",
+            "material": "JZ231200",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "KIT LEG GUARD"
+        },
+        {
+            "sno": "212",
+            "product_hirarchy": "001MC639PA02",
+            "material": "PA231000",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "TOOLKIT"
+        },
+        {
+            "sno": "213",
+            "product_hirarchy": "001MC639PA09",
+            "material": "71111177",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "PRINTED COMBINED O&M DISCOVER 100 & 150"
+        },
+        {
+            "sno": "214",
+            "product_hirarchy": "001MC639PA09",
+            "material": "DJ221003",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "215",
+            "product_hirarchy": "001MC639PA09",
+            "material": "DJ221004",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "216",
+            "product_hirarchy": "001MC639PA09",
+            "material": "JA561400",
+            "brand_varient": "DISCOVER 100 ES",
+            "description": "LEVER COMPLETE GEAR SHIFTER"
+        },
+        {
+            "sno": "217",
+            "product_hirarchy": "001MC639PA09",
+            "material": "JB351201",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "CDI ASSLY D100 UG"
+        },
+        {
+            "sno": "218",
+            "product_hirarchy": "001MC639PA09",
+            "material": "JZ231200",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "KIT LEG GUARD"
+        },
+        {
+            "sno": "219",
+            "product_hirarchy": "001MC639PA09",
+            "material": "JZ231201",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "220",
+            "product_hirarchy": "001MC639PA09",
+            "material": "JZ231202",
+            "brand_varient": "DISCO-M DRUM BRAKE ES-NO COLOR",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "221",
+            "product_hirarchy": "001MC639PA09",
+            "material": "JZ232600",
+            "brand_varient": "DISCO-M DRUM BRAKE KS-NO COLOR",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "222",
+            "product_hirarchy": "001MC641PD01",
+            "material": "39181404",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "BOLT - FLANGED"
+        },
+        {
+            "sno": "223",
+            "product_hirarchy": "001MC641PD01",
+            "material": "39194104",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "BOLT - FLANGED :- M8"
+        },
+        {
+            "sno": "224",
+            "product_hirarchy": "001MC641PD01",
+            "material": "61090203",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "225",
+            "product_hirarchy": "001MC641PD01",
+            "material": "71111148",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "SERVICE_MANUAL O&M AVENGER 220 SMALL"
+        },
+        {
+            "sno": "226",
+            "product_hirarchy": "001MC641PD01",
+            "material": "DG221033",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "GUARD - SARI"
+        },
+        {
+            "sno": "227",
+            "product_hirarchy": "001MC641PD01",
+            "material": "DJ201125",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "BATTERY MF WET CHARGED 9 AH"
+        },
+        {
+            "sno": "228",
+            "product_hirarchy": "001MC641PD01",
+            "material": "JM161017",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "GUARD FRONT"
+        },
+        {
+            "sno": "229",
+            "product_hirarchy": "001MC641PD01",
+            "material": "JM201002",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "HORN FOR AVENGER 200"
+        },
+        {
+            "sno": "230",
+            "product_hirarchy": "001MC641PD01",
+            "material": "JM221001",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "MIRROR ASSY LH"
+        },
+        {
+            "sno": "231",
+            "product_hirarchy": "001MC641PD01",
+            "material": "JM221002",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "MIRROR ASSY RH"
+        },
+        {
+            "sno": "232",
+            "product_hirarchy": "001MC641PD01",
+            "material": "JM221003",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "233",
+            "product_hirarchy": "001MC641PD01",
+            "material": "PD401400",
+            "brand_varient": "AVENGER 220 DTSI ES",
+            "description": "Switch Assly. Ignition"
+        },
+        {
+            "sno": "234",
+            "product_hirarchy": "001MC643JZ01",
+            "material": "52DJ0103",
+            "brand_varient": "Discover H disc brake ES",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "235",
+            "product_hirarchy": "001MC643JZ01",
+            "material": "61090203",
+            "brand_varient": "Discover H disc brake ES",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "236",
+            "product_hirarchy": "001MC643JZ01",
+            "material": "71111177",
+            "brand_varient": "Discover H disc brake ES",
+            "description": "PRINTED COMBINED O&M DISCOVER 100 & 150"
+        },
+        {
+            "sno": "237",
+            "product_hirarchy": "001MC643JZ01",
+            "material": "DJ221003",
+            "brand_varient": "Discover H disc brake ES",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "238",
+            "product_hirarchy": "001MC643JZ01",
+            "material": "DJ221004",
+            "brand_varient": "Discover H disc brake ES",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "239",
+            "product_hirarchy": "001MC643JZ01",
+            "material": "JN231000",
+            "brand_varient": "Discover H disc brake ES",
+            "description": "TOOL KIT WITH BAND"
+        },
+        {
+            "sno": "240",
+            "product_hirarchy": "001MC644JU06",
+            "material": "71111447",
+            "brand_varient": "KTM DUKE 200",
+            "description": "PRINTED KTM 200 DUKE OWNERS MANUAL"
+        },
+        {
+            "sno": "241",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JG231001",
+            "brand_varient": "KTM DUKE 200",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "242",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JG231600",
+            "brand_varient": "KTM DUKE 200",
+            "description": "MIRROR LH"
+        },
+        {
+            "sno": "243",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JG231601",
+            "brand_varient": "KTM DUKE 200",
+            "description": "MIRROR RH"
+        },
+        {
+            "sno": "244",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JG232604",
+            "brand_varient": "KTM DUKE 200",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "245",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JG401800",
+            "brand_varient": "KTM DUKE 200",
+            "description": "12V 8AH VRLA WET BATTERY"
+        },
+        {
+            "sno": "246",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JU231200",
+            "brand_varient": "KTM DUKE 200",
+            "description": "LEG GUARD LH"
+        },
+        {
+            "sno": "247",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JU231201",
+            "brand_varient": "KTM DUKE 200",
+            "description": "LEG GUARD RH"
+        },
+        {
+            "sno": "248",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JU232800",
+            "brand_varient": "KTM DUKE 200",
+            "description": "NUMBER PLATE FRONT"
+        },
+        {
+            "sno": "249",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JY231600",
+            "brand_varient": "KTM DUKE 200",
+            "description": "MIRROR CUM BLINKER LH"
+        },
+        {
+            "sno": "250",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JY231601",
+            "brand_varient": "KTM DUKE 200",
+            "description": "MIRROR CUM BLINKER RH"
+        },
+        {
+            "sno": "251",
+            "product_hirarchy": "001MC644JU06",
+            "material": "JY232807",
+            "brand_varient": "KTM DUKE 200",
+            "description": "BRACKET FRONT NUMBER PLATE MTG"
+        },
+        {
+            "sno": "252",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "52DJ0103",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "253",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "52PA0568",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "SIDE PANEL RH"
+        },
+        {
+            "sno": "254",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "61090203",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "255",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "71111177",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "PRINTED COMBINED O&M DISCOVER 100 & 150"
+        },
+        {
+            "sno": "256",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "DJ221003",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "257",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "DJ221004",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "258",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "DK201038",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "HORN RH DIA 70"
+        },
+        {
+            "sno": "259",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "DS201081",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "260",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "JN231000",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "TOOL KIT WITH BAND"
+        },
+        {
+            "sno": "261",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "JZ231200",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "KIT LEG GUARD"
+        },
+        {
+            "sno": "262",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "JZ232600",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "263",
+            "product_hirarchy": "001MC645JZ05",
+            "material": "YPA13001",
+            "brand_varient": "DISCOVER-125 DR ES-NO COLOR",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "264",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "52DJ0103",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "265",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "61090203",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "266",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "71111177",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "PRINTED COMBINED O&M DISCOVER 100 & 150"
+        },
+        {
+            "sno": "267",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "DH111015",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "CAP - SPARK PLUG"
+        },
+        {
+            "sno": "268",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "DJ221003",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "269",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "DJ221004",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "270",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "DK201038",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "HORN RH DIA 70"
+        },
+        {
+            "sno": "271",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "DS201081",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "272",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "JN231000",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "TOOL KIT WITH BAND"
+        },
+        {
+            "sno": "273",
+            "product_hirarchy": "001MC645JZ06",
+            "material": "JZ231200",
+            "brand_varient": "DISCOVER-125 DIBR ES",
+            "description": "KIT LEG GUARD"
+        },
+        {
+            "sno": "274",
+            "product_hirarchy": "001MC645JZ10",
+            "material": "52DJ0103",
+            "brand_varient": "DISCOVER 125 KS ALLOY WHEEL-NO COLOR",
+            "description": "KIT-MIRROR ASSLY (LH+RH)"
+        },
+        {
+            "sno": "275",
+            "product_hirarchy": "001MC645JZ10",
+            "material": "61090203",
+            "brand_varient": "DISCOVER 125 KS ALLOY WHEEL-NO COLOR",
+            "description": "KIT First Aid Medical Kit"
+        },
+        {
+            "sno": "276",
+            "product_hirarchy": "001MC645JZ10",
+            "material": "71111177",
+            "brand_varient": "DISCOVER 125 KS ALLOY WHEEL-NO COLOR",
+            "description": "PRINTED COMBINED O&M DISCOVER 100 & 150"
+        },
+        {
+            "sno": "277",
+            "product_hirarchy": "001MC645JZ10",
+            "material": "DJ221003",
+            "brand_varient": "DISCOVER 125 KS ALLOY WHEEL-NO COLOR",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "278",
+            "product_hirarchy": "001MC645JZ10",
+            "material": "DJ221004",
+            "brand_varient": "DISCOVER 125 KS ALLOY WHEEL-NO COLOR",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "279",
+            "product_hirarchy": "001MC645JZ10",
+            "material": "JN231000",
+            "brand_varient": "DISCOVER 125 KS ALLOY WHEEL-NO COLOR",
+            "description": "TOOL KIT WITH BAND"
+        },
+        {
+            "sno": "280",
+            "product_hirarchy": "001MC645JZ24",
+            "material": "DS201081",
+            "brand_varient": "DISCOVER 125 DRUM",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "281",
+            "product_hirarchy": "001MC645JZ24",
+            "material": "JZ231201",
+            "brand_varient": "DISCOVER 125 DRUM",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "282",
+            "product_hirarchy": "001MC645JZ24",
+            "material": "JZ231202",
+            "brand_varient": "DISCOVER 125 DRUM",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "283",
+            "product_hirarchy": "001MC645JZ24",
+            "material": "JZ232600",
+            "brand_varient": "DISCOVER 125 DRUM",
+            "description": "LOCK SET 3 IN 1"
+        },
+        {
+            "sno": "284",
+            "product_hirarchy": "001MC645JZ25",
+            "material": "DS201081",
+            "brand_varient": "DISCOVER 125 DISC",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "285",
+            "product_hirarchy": "001MC645JZ25",
+            "material": "JZ231201",
+            "brand_varient": "DISCOVER 125 DISC",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "286",
+            "product_hirarchy": "001MC645JZ25",
+            "material": "JZ231202",
+            "brand_varient": "DISCOVER 125 DISC",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "287",
+            "product_hirarchy": "001MC645JZ25",
+            "material": "JZ232600",
+            "brand_varient": "DISCOVER 125 DISC",
+            "description": "LOCK SET 3 IN 1"
+        },
+        {
+            "sno": "288",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "61090203",
+            "brand_varient": "Discover 125 ST",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "289",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "71111531",
+            "brand_varient": "Discover 125 ST",
+            "description": "OM BOOK"
+        },
+        {
+            "sno": "290",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "DJ221019",
+            "brand_varient": "Discover 125 ST",
+            "description": "Tool kit"
+        },
+        {
+            "sno": "291",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "DS201081",
+            "brand_varient": "Discover 125 ST",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "292",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "JZ181421",
+            "brand_varient": "Discover 125 ST",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "293",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "JZ231211",
+            "brand_varient": "Discover 125 ST",
+            "description": "Leg guard"
+        },
+        {
+            "sno": "294",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "JZ231212",
+            "brand_varient": "Discover 125 ST",
+            "description": "Saree guard"
+        },
+        {
+            "sno": "295",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "JZ231600",
+            "brand_varient": "Discover 125 ST",
+            "description": "LH MIRROR"
+        },
+        {
+            "sno": "296",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "JZ231601",
+            "brand_varient": "Discover 125 ST",
+            "description": "RH MIRROR"
+        },
+        {
+            "sno": "297",
+            "product_hirarchy": "001MC649JZ08",
+            "material": "JZ232600",
+            "brand_varient": "Discover 125 ST",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "298",
+            "product_hirarchy": "001MC652PA06",
+            "material": "61090203",
+            "brand_varient": "Discover 100 T",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "299",
+            "product_hirarchy": "001MC652PA06",
+            "material": "71111531",
+            "brand_varient": "Discover 100 T",
+            "description": "OM BOOK"
+        },
+        {
+            "sno": "300",
+            "product_hirarchy": "001MC652PA06",
+            "material": "DS141018",
+            "brand_varient": "DISCOVER D105A TX DRUM",
+            "description": "FUEL COCK ASSY"
+        },
+        {
+            "sno": "301",
+            "product_hirarchy": "001MC652PA06",
+            "material": "DS201081",
+            "brand_varient": "Discover 100 T",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "302",
+            "product_hirarchy": "001MC652PA06",
+            "material": "JZ231211",
+            "brand_varient": "Discover 100 T",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "303",
+            "product_hirarchy": "001MC652PA06",
+            "material": "JZ231600",
+            "brand_varient": "Discover 100 T",
+            "description": "LH MIRROR"
+        },
+        {
+            "sno": "304",
+            "product_hirarchy": "001MC652PA06",
+            "material": "JZ231601",
+            "brand_varient": "Discover 100 T",
+            "description": "RH MIRROR"
+        },
+        {
+            "sno": "305",
+            "product_hirarchy": "001MC652PA06",
+            "material": "JZ232600",
+            "brand_varient": "Discover 100 T",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "306",
+            "product_hirarchy": "001MC652PA06",
+            "material": "PA231002",
+            "brand_varient": "Discover 100 T",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "307",
+            "product_hirarchy": "001MC652PA06",
+            "material": "PA231202",
+            "brand_varient": "Discover 100 T",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "308",
+            "product_hirarchy": "001MC652PA20",
+            "material": "JZ231600",
+            "brand_varient": "DISCOVER 100 T-DISC",
+            "description": "MIRROR ASSLY LH"
+        },
+        {
+            "sno": "309",
+            "product_hirarchy": "001MC652PA20",
+            "material": "JZ231601",
+            "brand_varient": "DISCOVER 100 T-DISC",
+            "description": "MIRROR ASSLY RH"
+        },
+        {
+            "sno": "310",
+            "product_hirarchy": "001MC656PA13",
+            "material": "71111772",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "OWNER MANUAL"
+        },
+        {
+            "sno": "311",
+            "product_hirarchy": "001MC656PA13",
+            "material": "DS201081",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "BATTERY"
+        },
+        {
+            "sno": "312",
+            "product_hirarchy": "001MC656PA13",
+            "material": "JG401601",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "HORN"
+        },
+        {
+            "sno": "313",
+            "product_hirarchy": "001MC656PA13",
+            "material": "PA231000",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "TOOLKIT"
+        },
+        {
+            "sno": "314",
+            "product_hirarchy": "001MC656PA13",
+            "material": "PA231206",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "315",
+            "product_hirarchy": "001MC656PA13",
+            "material": "PA231207",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "GUARD SAREE"
+        },
+        {
+            "sno": "316",
+            "product_hirarchy": "001MC656PA13",
+            "material": "PA231600",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "MIRROR ASSLY LH"
+        },
+        {
+            "sno": "317",
+            "product_hirarchy": "001MC656PA13",
+            "material": "PA231601",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "MIRROR ASSLY RH"
+        },
+        {
+            "sno": "318",
+            "product_hirarchy": "001MC656PA13",
+            "material": "YPA13014",
+            "brand_varient": "DISCOVER 100 M DRUM",
+            "description": "LOCK SET FOR DISCOVER 100M DC SYSTEM"
+        },
+        {
+            "sno": "319",
+            "product_hirarchy": "001MC656PA19",
+            "material": "71111772",
+            "brand_varient": "DISCOVER 100 M DISC",
+            "description": "OWNER MANUAL"
+        },
+        {
+            "sno": "320",
+            "product_hirarchy": "001MC656PA19",
+            "material": "DS201081",
+            "brand_varient": "DISCOVER 100 M DISC",
+            "description": "BATTERY"
+        },
+        {
+            "sno": "321",
+            "product_hirarchy": "001MC656PA19",
+            "material": "JG401601",
+            "brand_varient": "DISCOVER 100 M DISC",
+            "description": "HORN"
+        },
+        {
+            "sno": "322",
+            "product_hirarchy": "001MC656PA19",
+            "material": "PA231000",
+            "brand_varient": "DISCOVER 100 M DISC",
+            "description": "TOOLKIT"
+        },
+        {
+            "sno": "323",
+            "product_hirarchy": "001MC656PA19",
+            "material": "PA231206",
+            "brand_varient": "DISCOVER 100 M DISC",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "324",
+            "product_hirarchy": "001MC656PA19",
+            "material": "PA231207",
+            "brand_varient": "DISCOVER 100 M DISC",
+            "description": "GUARD SAREE"
+        },
+        {
+            "sno": "325",
+            "product_hirarchy": "001MC656PA19",
+            "material": "PA231600",
+            "brand_varient": "DISCOVER 100 M DISC",
+            "description": "MIRROR ASSLY LH"
+        },
+        {
+            "sno": "326",
+            "product_hirarchy": "001MC656PA19",
+            "material": "PA231601",
+            "brand_varient": "DISCOVER 100 M DISC",
+            "description": "MIRROR ASSLY RH"
+        },
+        {
+            "sno": "327",
+            "product_hirarchy": "001MC657JG08",
+            "material": "36JY0014",
+            "brand_varient": "KTM DUKE 390",
+            "description": "KIT HAND GUARD KTM 390"
+        },
+        {
+            "sno": "328",
+            "product_hirarchy": "001MC657JG08",
+            "material": "JG231001",
+            "brand_varient": "KTM DUKE 390",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "329",
+            "product_hirarchy": "001MC657JG08",
+            "material": "JG231209",
+            "brand_varient": "KTM DUKE 390",
+            "description": "GUARD LEG LH"
+        },
+        {
+            "sno": "330",
+            "product_hirarchy": "001MC657JG08",
+            "material": "JG231210",
+            "brand_varient": "KTM DUKE 390",
+            "description": "GUARD LEG RH"
+        },
+        {
+            "sno": "331",
+            "product_hirarchy": "001MC657JG08",
+            "material": "JG231600",
+            "brand_varient": "KTM DUKE 390",
+            "description": "MIRROR LH"
+        },
+        {
+            "sno": "332",
+            "product_hirarchy": "001MC657JG08",
+            "material": "JG231601",
+            "brand_varient": "KTM DUKE 390",
+            "description": "MIRROR RH"
+        },
+        {
+            "sno": "333",
+            "product_hirarchy": "001MC657JG08",
+            "material": "JG401800",
+            "brand_varient": "KTM DUKE 390",
+            "description": "12V 8AH VRLA WET BATTERY"
+        },
+        {
+            "sno": "334",
+            "product_hirarchy": "001MC657JG08",
+            "material": "JU231204",
+            "brand_varient": "KTM DUKE 390",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "335",
+            "product_hirarchy": "001MC661PA07",
+            "material": "61090203",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "336",
+            "product_hirarchy": "001MC661PA07",
+            "material": "71111531",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "OM BOOK"
+        },
+        {
+            "sno": "337",
+            "product_hirarchy": "001MC661PA07",
+            "material": "DJ221019",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "338",
+            "product_hirarchy": "001MC661PA07",
+            "material": "DS201081",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "339",
+            "product_hirarchy": "001MC661PA07",
+            "material": "JZ231211",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "340",
+            "product_hirarchy": "001MC661PA07",
+            "material": "JZ231600",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "LH MIRROR"
+        },
+        {
+            "sno": "341",
+            "product_hirarchy": "001MC661PA07",
+            "material": "JZ231601",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "RH MIRROR"
+        },
+        {
+            "sno": "342",
+            "product_hirarchy": "001MC661PA07",
+            "material": "JZ232600",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "343",
+            "product_hirarchy": "001MC661PA07",
+            "material": "PA231202",
+            "brand_varient": "Discover 125 T Disc",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "344",
+            "product_hirarchy": "001MC661PA14",
+            "material": "61090203",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "345",
+            "product_hirarchy": "001MC661PA14",
+            "material": "71111531",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "OM BOOK"
+        },
+        {
+            "sno": "346",
+            "product_hirarchy": "001MC661PA14",
+            "material": "DJ221019",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "347",
+            "product_hirarchy": "001MC661PA14",
+            "material": "DS201081",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "BATTERY MF WET CHARGED 5AH"
+        },
+        {
+            "sno": "348",
+            "product_hirarchy": "001MC661PA14",
+            "material": "JZ231211",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "349",
+            "product_hirarchy": "001MC661PA14",
+            "material": "JZ231600",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "LH MIRROR"
+        },
+        {
+            "sno": "350",
+            "product_hirarchy": "001MC661PA14",
+            "material": "JZ231601",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "RH MIRROR"
+        },
+        {
+            "sno": "351",
+            "product_hirarchy": "001MC661PA14",
+            "material": "JZ232600",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "352",
+            "product_hirarchy": "001MC661PA14",
+            "material": "PA231202",
+            "brand_varient": "Discover 125 T Drum",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "353",
+            "product_hirarchy": "001MC665JZ14",
+            "material": "71112073",
+            "brand_varient": "DISCOVER 150 S-DISC",
+            "description": "DISCOVER 150 MANUAL"
+        },
+        {
+            "sno": "354",
+            "product_hirarchy": "001MC665JZ14",
+            "material": "DJ221019",
+            "brand_varient": "DISCOVER 150 S-DISC",
+            "description": "DISCOVER 150 TOOL KIT"
+        },
+        {
+            "sno": "355",
+            "product_hirarchy": "001MC665JZ14",
+            "material": "DS201025",
+            "brand_varient": "DISCOVER 150 S-DISC",
+            "description": "FLASHER - D. C. :- SOLID STATE"
+        },
+        {
+            "sno": "356",
+            "product_hirarchy": "001MC665JZ14",
+            "material": "JZ231225",
+            "brand_varient": "DISCOVER 150 S-DISC",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "357",
+            "product_hirarchy": "001MC665JZ14",
+            "material": "JZ231600",
+            "brand_varient": "DISCOVER 150 S-DISC",
+            "description": "MIRROR LH"
+        },
+        {
+            "sno": "358",
+            "product_hirarchy": "001MC665JZ14",
+            "material": "JZ231601",
+            "brand_varient": "DISCOVER 150 S-DISC",
+            "description": "MIRROR RH"
+        },
+        {
+            "sno": "359",
+            "product_hirarchy": "001MC665JZ14",
+            "material": "PA231202",
+            "brand_varient": "DISCOVER 150 S-DISC",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "360",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "71112073",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "DISCOVER 150 MANUAL"
+        },
+        {
+            "sno": "361",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "DJ221019",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "DISCOVER 150 TOOL KIT"
+        },
+        {
+            "sno": "362",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "DS201082",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "BATTERY MF DRY CHARGED 5AH"
+        },
+        {
+            "sno": "363",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "DT402006",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "Light control unit"
+        },
+        {
+            "sno": "364",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "JZ181401",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "REAR FENDER REAR"
+        },
+        {
+            "sno": "365",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "JZ231225",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "366",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "JZ231600",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "MIRROR LH"
+        },
+        {
+            "sno": "367",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "JZ231601",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "MIRROR RH"
+        },
+        {
+            "sno": "368",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "PA231202",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "369",
+            "product_hirarchy": "001MC665JZ16",
+            "material": "YPA13014",
+            "brand_varient": "DISCOVER 150 F",
+            "description": "LOCK SET FOR DISCOVER"
+        },
+        {
+            "sno": "370",
+            "product_hirarchy": "001MC665JZ19",
+            "material": "71112073",
+            "brand_varient": "DISCOVER 150 S-DRUM",
+            "description": "DISCOVER 150 MANUAL"
+        },
+        {
+            "sno": "371",
+            "product_hirarchy": "001MC665JZ19",
+            "material": "DJ221019",
+            "brand_varient": "DISCOVER 150 S-DRUM",
+            "description": "DISCOVER 150 TOOL KIT"
+        },
+        {
+            "sno": "372",
+            "product_hirarchy": "001MC665JZ19",
+            "material": "DS201025",
+            "brand_varient": "DISCOVER 150 S-DRUM",
+            "description": "FLASHER - D. C. :- SOLID STATE"
+        },
+        {
+            "sno": "373",
+            "product_hirarchy": "001MC665JZ19",
+            "material": "JZ231225",
+            "brand_varient": "DISCOVER 150 S-DRUM",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "374",
+            "product_hirarchy": "001MC665JZ19",
+            "material": "JZ231600",
+            "brand_varient": "DISCOVER 150 S-DRUM",
+            "description": "MIRROR LH"
+        },
+        {
+            "sno": "375",
+            "product_hirarchy": "001MC665JZ19",
+            "material": "JZ231601",
+            "brand_varient": "DISCOVER 150 S-DRUM",
+            "description": "MIRROR RH"
+        },
+        {
+            "sno": "376",
+            "product_hirarchy": "001MC665JZ19",
+            "material": "PA231202",
+            "brand_varient": "DISCOVER 150 S-DRUM",
+            "description": "SAREE GUARD"
+        },
+        {
+            "sno": "377",
+            "product_hirarchy": "001MC667PF08",
+            "material": "16181023",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "STEERING LOCK AND IGNITION SWITCH"
+        },
+        {
+            "sno": "378",
+            "product_hirarchy": "001MC667PF08",
+            "material": "36JK0001",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "KIT LEG / SAREE GUARD ( PLATINA ) - UG"
+        },
+        {
+            "sno": "379",
+            "product_hirarchy": "001MC667PF08",
+            "material": "36PF0043",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "KIT CHAIN CASE"
+        },
+        {
+            "sno": "380",
+            "product_hirarchy": "001MC667PF08",
+            "material": "39154011",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "WASHER - PLAIN"
+        },
+        {
+            "sno": "381",
+            "product_hirarchy": "001MC667PF08",
+            "material": "71112145",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "OWNERS MANUAL-PLATINA B104D"
+        },
+        {
+            "sno": "382",
+            "product_hirarchy": "001MC667PF08",
+            "material": "DJ221003",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "383",
+            "product_hirarchy": "001MC667PF08",
+            "material": "DJ221004",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "384",
+            "product_hirarchy": "001MC667PF08",
+            "material": "JZ401600",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "HORN DC"
+        },
+        {
+            "sno": "385",
+            "product_hirarchy": "001MC667PF08",
+            "material": "KADF0816",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "BOLT FLANGED"
+        },
+        {
+            "sno": "386",
+            "product_hirarchy": "001MC667PF08",
+            "material": "LAD00048",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "BOLT FLANGED M8 X 1.25P X 65 L"
+        },
+        {
+            "sno": "387",
+            "product_hirarchy": "001MC667PF08",
+            "material": "LAD00131",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "BOLT FLANGED-M10X1.5XL50XOLV GRN"
+        },
+        {
+            "sno": "388",
+            "product_hirarchy": "001MC667PF08",
+            "material": "PA231002",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "389",
+            "product_hirarchy": "001MC667PF08",
+            "material": "PA231211",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "390",
+            "product_hirarchy": "001MC667PF08",
+            "material": "PF231204",
+            "brand_varient": "PLATINA 100 ES",
+            "description": "GUARD SARI"
+        },
+        {
+            "sno": "391",
+            "product_hirarchy": "001MC667PF09",
+            "material": "16181023",
+            "brand_varient": "PLATINA 100 KS",
+            "description": "STEERING LOCK AND IGNITION SWITCH"
+        },
+        {
+            "sno": "392",
+            "product_hirarchy": "001MC667PF09",
+            "material": "DJ221003",
+            "brand_varient": "PLATINA 100 KS",
+            "description": "MIRROR ASSEMBLY - LH FOR K-UPGRADE"
+        },
+        {
+            "sno": "393",
+            "product_hirarchy": "001MC667PF09",
+            "material": "DJ221004",
+            "brand_varient": "PLATINA 100 KS",
+            "description": "MIRROR ASSEMBLY - RH FOR K-UPGRADE"
+        },
+        {
+            "sno": "394",
+            "product_hirarchy": "001MC667PF09",
+            "material": "JZ401600",
+            "brand_varient": "PLATINA 100 KS",
+            "description": "HORN DC"
+        },
+        {
+            "sno": "395",
+            "product_hirarchy": "001MC667PF09",
+            "material": "PA231002",
+            "brand_varient": "PLATINA 100 KS",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "396",
+            "product_hirarchy": "001MC667PF09",
+            "material": "PA231211",
+            "brand_varient": "PLATINA 100 KS",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "397",
+            "product_hirarchy": "001MC667PF09",
+            "material": "PF231204",
+            "brand_varient": "PLATINA 100 KS",
+            "description": "GUARD SARI"
+        },
+        {
+            "sno": "398",
+            "product_hirarchy": "001MC670JY10",
+            "material": "36JU0015",
+            "brand_varient": "KTM RC 390 DOMESTIC",
+            "description": "KIT KTM 390 8AH BATTERY"
+        },
+        {
+            "sno": "399",
+            "product_hirarchy": "001MC674PA15",
+            "material": "36DS4020",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "KIT CHAIN CASE DISCOVER 125"
+        },
+        {
+            "sno": "400",
+            "product_hirarchy": "001MC674PA15",
+            "material": "52PA0568",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "SIDE PANEL RH"
+        },
+        {
+            "sno": "401",
+            "product_hirarchy": "001MC674PA15",
+            "material": "71112019",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "O.M. DIS 125 M & 100 M- APRL14"
+        },
+        {
+            "sno": "402",
+            "product_hirarchy": "001MC674PA15",
+            "material": "DH111015",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "CAP - SPARK PLUG"
+        },
+        {
+            "sno": "403",
+            "product_hirarchy": "001MC674PA15",
+            "material": "DJ221019",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "TOOLKIT"
+        },
+        {
+            "sno": "404",
+            "product_hirarchy": "001MC674PA15",
+            "material": "DK201038",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "HORN RH DIA 70"
+        },
+        {
+            "sno": "405",
+            "product_hirarchy": "001MC674PA15",
+            "material": "PA231000",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "TOOLKIT"
+        },
+        {
+            "sno": "406",
+            "product_hirarchy": "001MC674PA15",
+            "material": "PA231206",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "407",
+            "product_hirarchy": "001MC674PA15",
+            "material": "PA231207",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "GUARD SAREE"
+        },
+        {
+            "sno": "408",
+            "product_hirarchy": "001MC674PA15",
+            "material": "PA231600",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "MIRROR ASSLY LH"
+        },
+        {
+            "sno": "409",
+            "product_hirarchy": "001MC674PA15",
+            "material": "PA231601",
+            "brand_varient": "DISCOVER 125 M-DISC",
+            "description": "MIRROR ASSLY RH"
+        },
+        {
+            "sno": "410",
+            "product_hirarchy": "001MC674PA16",
+            "material": "36DS4020",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "KIT CHAIN CASE DISCOVER 125"
+        },
+        {
+            "sno": "411",
+            "product_hirarchy": "001MC674PA16",
+            "material": "52PA0568",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "SIDE PANEL RH"
+        },
+        {
+            "sno": "412",
+            "product_hirarchy": "001MC674PA16",
+            "material": "71112019",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "O.M. DIS 125 M & 100 M- APRL14"
+        },
+        {
+            "sno": "413",
+            "product_hirarchy": "001MC674PA16",
+            "material": "DH111015",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "CAP - SPARK PLUG"
+        },
+        {
+            "sno": "414",
+            "product_hirarchy": "001MC674PA16",
+            "material": "DK201038",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "HORN RH DIA 70"
+        },
+        {
+            "sno": "415",
+            "product_hirarchy": "001MC674PA16",
+            "material": "PA231000",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "TOOLKIT"
+        },
+        {
+            "sno": "416",
+            "product_hirarchy": "001MC674PA16",
+            "material": "PA231206",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "LEG GUARD"
+        },
+        {
+            "sno": "417",
+            "product_hirarchy": "001MC674PA16",
+            "material": "PA231207",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "GUARD SAREE"
+        },
+        {
+            "sno": "418",
+            "product_hirarchy": "001MC674PA16",
+            "material": "YPA13001",
+            "brand_varient": "DISCOVER 125 M-DRUM",
+            "description": "LOCK SET"
+        },
+        {
+            "sno": "419",
+            "product_hirarchy": "001MC685JF05",
+            "material": "JE621203",
+            "brand_varient": "PULSAR AS 150",
+            "description": "ASSEMBLY KICK LEVER K11"
+        },
+        {
+            "sno": "420",
+            "product_hirarchy": "001MC692DT02",
+            "material": "DT231600",
+            "brand_varient": "PULSAR RS 200 WO ABS",
+            "description": "MIRROR ASSLY LH"
+        },
+        {
+            "sno": "421",
+            "product_hirarchy": "001MC692DT02",
+            "material": "DT231601",
+            "brand_varient": "PULSAR RS 200 WO ABS",
+            "description": "MIRROR ASSLY RH"
+        },
+        {
+            "sno": "422",
+            "product_hirarchy": "001MC692DT02",
+            "material": "DT232601",
+            "brand_varient": "PULSAR RS 200 WO ABS",
+            "description": "LOCK SET 3 IN 1"
+        },
+        {
+            "sno": "423",
+            "product_hirarchy": "001MC692DT02",
+            "material": "JG401800",
+            "brand_varient": "PULSAR RS 200 WO ABS",
+            "description": "12V 8AH VRLA WET BATTERY"
+        },
+        {
+            "sno": "424",
+            "product_hirarchy": "001MC692DT02",
+            "material": "JL231000",
+            "brand_varient": "PULSAR RS 200 WO ABS",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "425",
+            "product_hirarchy": "001MC692DT02",
+            "material": "PA401600",
+            "brand_varient": "PULSAR RS 200 WO ABS",
+            "description": "HORN - 82 DIA"
+        },
+        {
+            "sno": "426",
+            "product_hirarchy": "001MC692DT04",
+            "material": "71111878",
+            "brand_varient": "PULSAR RS 200 - ABS",
+            "description": "OWNERS MANUAL K8"
+        },
+        {
+            "sno": "427",
+            "product_hirarchy": "001MC692DT04",
+            "material": "DT231600",
+            "brand_varient": "PULSAR RS 200 - ABS",
+            "description": "MIRROR ASSLY LH"
+        },
+        {
+            "sno": "428",
+            "product_hirarchy": "001MC692DT04",
+            "material": "DT231601",
+            "brand_varient": "PULSAR RS 200 - ABS",
+            "description": "MIRROR ASSLY RH"
+        },
+        {
+            "sno": "429",
+            "product_hirarchy": "001MC692DT04",
+            "material": "DT232601",
+            "brand_varient": "PULSAR RS 200 - ABS",
+            "description": "LOCK SET 3 IN 1"
+        },
+        {
+            "sno": "430",
+            "product_hirarchy": "001MC692DT04",
+            "material": "JG401800",
+            "brand_varient": "PULSAR RS 200 - ABS",
+            "description": "12V 8AH VRLA WET BATTERY"
+        },
+        {
+            "sno": "431",
+            "product_hirarchy": "001MC692DT04",
+            "material": "JL231000",
+            "brand_varient": "PULSAR RS 200 - ABS",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "432",
+            "product_hirarchy": "001MC692DT04",
+            "material": "PA401600",
+            "brand_varient": "PULSAR RS 200 - ABS",
+            "description": "HORN - 82 DIA"
+        },
+        {
+            "sno": "433",
+            "product_hirarchy": "001MC695JL06",
+            "material": "DT232601",
+            "brand_varient": "PULSAR AS 200",
+            "description": "LOCK SET 3 IN 1"
+        },
+        {
+            "sno": "434",
+            "product_hirarchy": "001MC695JL06",
+            "material": "JG401800",
+            "brand_varient": "PULSAR AS 200",
+            "description": "12V 8AH VRLA WET BATTERY"
+        },
+        {
+            "sno": "435",
+            "product_hirarchy": "001MC695JL06",
+            "material": "JL191004",
+            "brand_varient": "PULSAR AS 200",
+            "description": "SEAT ASSY COMP REAR"
+        },
+        {
+            "sno": "436",
+            "product_hirarchy": "002PC515BA06",
+            "material": "19161151",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "RIVET"
+        },
+        {
+            "sno": "437",
+            "product_hirarchy": "002PC515BA06",
+            "material": "22161221",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "NO PLATE"
+        },
+        {
+            "sno": "438",
+            "product_hirarchy": "002PC515BA06",
+            "material": "22161236",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "PLATE"
+        },
+        {
+            "sno": "439",
+            "product_hirarchy": "002PC515BA06",
+            "material": "22161238",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "BRACKET"
+        },
+        {
+            "sno": "440",
+            "product_hirarchy": "002PC515BA06",
+            "material": "22230635",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "WIPER BLADE"
+        },
+        {
+            "sno": "441",
+            "product_hirarchy": "002PC515BA06",
+            "material": "22250132",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "WHITE CABLE"
+        },
+        {
+            "sno": "442",
+            "product_hirarchy": "002PC515BA06",
+            "material": "24165137",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "BUMPER REAR REFL"
+        },
+        {
+            "sno": "443",
+            "product_hirarchy": "002PC515BA06",
+            "material": "24201408",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "WI MOTOR"
+        },
+        {
+            "sno": "444",
+            "product_hirarchy": "002PC515BA06",
+            "material": "24221031",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "445",
+            "product_hirarchy": "002PC515BA06",
+            "material": "24230185",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "446",
+            "product_hirarchy": "002PC515BA06",
+            "material": "24230417",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "STRIP"
+        },
+        {
+            "sno": "447",
+            "product_hirarchy": "002PC515BA06",
+            "material": "24231421",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "SPACER"
+        },
+        {
+            "sno": "448",
+            "product_hirarchy": "002PC515BA06",
+            "material": "24231499",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "SIDE PANAL"
+        },
+        {
+            "sno": "449",
+            "product_hirarchy": "002PC515BA06",
+            "material": "24231748",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "ASSEMBLY HOOD FRAME COMPLETE FL"
+        },
+        {
+            "sno": "450",
+            "product_hirarchy": "002PC515BA06",
+            "material": "25201009",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "LAMP 12V/35W"
+        },
+        {
+            "sno": "451",
+            "product_hirarchy": "002PC515BA06",
+            "material": "25231064",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "BEADING"
+        },
+        {
+            "sno": "452",
+            "product_hirarchy": "002PC515BA06",
+            "material": "61090203",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "453",
+            "product_hirarchy": "002PC515BA06",
+            "material": "AA201091",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "FSI"
+        },
+        {
+            "sno": "454",
+            "product_hirarchy": "002PC515BA06",
+            "material": "AA201093",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "FSI"
+        },
+        {
+            "sno": "455",
+            "product_hirarchy": "002PC515BA06",
+            "material": "AA201157",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "TAIL LAMP"
+        },
+        {
+            "sno": "456",
+            "product_hirarchy": "002PC515BA06",
+            "material": "AA201160",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "TAIL LAMP"
+        },
+        {
+            "sno": "457",
+            "product_hirarchy": "002PC515BA06",
+            "material": "AA251001",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "CABLE FARE MTR"
+        },
+        {
+            "sno": "458",
+            "product_hirarchy": "002PC515BA06",
+            "material": "AF231078",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "D B.SEAT"
+        },
+        {
+            "sno": "459",
+            "product_hirarchy": "002PC515BA06",
+            "material": "AL151168",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "PAD"
+        },
+        {
+            "sno": "460",
+            "product_hirarchy": "002PC515BA06",
+            "material": "AL241285",
+            "brand_varient": "RE DSL ( 445)",
+            "description": "PACKING"
+        },
+        {
+            "sno": "461",
+            "product_hirarchy": "002PC519BB05",
+            "material": "19161151",
+            "brand_varient": "MEGA MAX",
+            "description": "RIVET"
+        },
+        {
+            "sno": "462",
+            "product_hirarchy": "002PC519BB05",
+            "material": "61090203",
+            "brand_varient": "MEGA MAX",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "463",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AB231008",
+            "brand_varient": "MEGA MAX",
+            "description": "JOINT PLATE"
+        },
+        {
+            "sno": "464",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AB231009",
+            "brand_varient": "MEGA MAX",
+            "description": "JOINT PLATE"
+        },
+        {
+            "sno": "465",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AL101030",
+            "brand_varient": "MEGA MAX",
+            "description": "ROPE"
+        },
+        {
+            "sno": "466",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AL151168",
+            "brand_varient": "MEGA MAX",
+            "description": "PAD"
+        },
+        {
+            "sno": "467",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AL161226",
+            "brand_varient": "MEGA MAX",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "468",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AL161229",
+            "brand_varient": "MEGA MAX",
+            "description": "STRIP"
+        },
+        {
+            "sno": "469",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AL201039",
+            "brand_varient": "MEGA MAX",
+            "description": "CABIN LAMP"
+        },
+        {
+            "sno": "470",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AL241285",
+            "brand_varient": "MEGA MAX",
+            "description": "PACKING"
+        },
+        {
+            "sno": "471",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AP181013",
+            "brand_varient": "MEGA MAX",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "472",
+            "product_hirarchy": "002PC519BB05",
+            "material": "AT213001",
+            "brand_varient": "MEGA MAX",
+            "description": "AL.STRIP"
+        },
+        {
+            "sno": "473",
+            "product_hirarchy": "002PC519BB05",
+            "material": "BB161049",
+            "brand_varient": "MEGA MAX",
+            "description": "HEEL REST"
+        },
+        {
+            "sno": "474",
+            "product_hirarchy": "002PC519BB05",
+            "material": "BB161050",
+            "brand_varient": "MEGA MAX",
+            "description": "HEEL REST"
+        },
+        {
+            "sno": "475",
+            "product_hirarchy": "002PC519BB05",
+            "material": "BB201035",
+            "brand_varient": "MEGA MAX",
+            "description": "CABLE HARNESS"
+        },
+        {
+            "sno": "476",
+            "product_hirarchy": "002PC519BB05",
+            "material": "BB211010",
+            "brand_varient": "MEGA MAX",
+            "description": "DBS"
+        },
+        {
+            "sno": "477",
+            "product_hirarchy": "002PC519BB05",
+            "material": "BB221001",
+            "brand_varient": "MEGA MAX",
+            "description": "MIRROR"
+        },
+        {
+            "sno": "478",
+            "product_hirarchy": "002PC519BB05",
+            "material": "BB231131",
+            "brand_varient": "MEGA MAX",
+            "description": "CLAMPS"
+        },
+        {
+            "sno": "479",
+            "product_hirarchy": "002PC519BB05",
+            "material": "BB231141",
+            "brand_varient": "MEGA MAX",
+            "description": "MATTING"
+        },
+        {
+            "sno": "480",
+            "product_hirarchy": "002PC519BB05",
+            "material": "BB231142",
+            "brand_varient": "MEGA MAX",
+            "description": "MATTING"
+        },
+        {
+            "sno": "481",
+            "product_hirarchy": "002PC519BB05",
+            "material": "CL201023",
+            "brand_varient": "MEGA MAX",
+            "description": "BULB"
+        },
+        {
+            "sno": "482",
+            "product_hirarchy": "002PC531AA17",
+            "material": "22161221",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "NUMBER PLATE"
+        },
+        {
+            "sno": "483",
+            "product_hirarchy": "002PC531AA17",
+            "material": "22250132",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "CABLE ASSLEMBLY ELECTRIC WHITE"
+        },
+        {
+            "sno": "484",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24161446",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "HOLDER WATER BOTTLE"
+        },
+        {
+            "sno": "485",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24165132",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "BRACKET NUMBER PLATE MOUNTING"
+        },
+        {
+            "sno": "486",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24165273",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "487",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24165274",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "488",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24201472",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "489",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24201473",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "490",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24231421",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "SPACER BEHIND PASS BRACKET"
+        },
+        {
+            "sno": "491",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24231566",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "BACKREST ASSEMBLY DRIVER"
+        },
+        {
+            "sno": "492",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24231615",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "493",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24231616",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "494",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24231625",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "BRACKET WITH MOTOR MTG."
+        },
+        {
+            "sno": "495",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24231641",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "496",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24231761",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "STRIP ALUMINUM 1"
+        },
+        {
+            "sno": "497",
+            "product_hirarchy": "002PC531AA17",
+            "material": "24231762",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "STRIP ALUMINUM 2"
+        },
+        {
+            "sno": "498",
+            "product_hirarchy": "002PC531AA17",
+            "material": "25231064",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "BEADING FOR MUDGUARD"
+        },
+        {
+            "sno": "499",
+            "product_hirarchy": "002PC531AA17",
+            "material": "61090203",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "KIT FIRST AID MEDICAL"
+        },
+        {
+            "sno": "500",
+            "product_hirarchy": "002PC531AA17",
+            "material": "AA101747",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "501",
+            "product_hirarchy": "002PC531AA17",
+            "material": "AA201263",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "WIPER MOTOR ASSEMBLY REFL BIG"
+        },
+        {
+            "sno": "502",
+            "product_hirarchy": "002PC531AA17",
+            "material": "AA221030",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "503",
+            "product_hirarchy": "002PC531AA17",
+            "material": "AA231223",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "COVER WIPER MOTOR"
+        },
+        {
+            "sno": "504",
+            "product_hirarchy": "002PC531AA17",
+            "material": "AA251001",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "CABLE FARE METER"
+        },
+        {
+            "sno": "505",
+            "product_hirarchy": "002PC531AA17",
+            "material": "AL241023",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "WIPER BLADE ASSEMBLY"
+        },
+        {
+            "sno": "506",
+            "product_hirarchy": "002PC531AA17",
+            "material": "AP201058",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "CBAIN LAMO"
+        },
+        {
+            "sno": "507",
+            "product_hirarchy": "002PC531AA17",
+            "material": "BH111071",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "CAP WIPER MOTOR"
+        },
+        {
+            "sno": "508",
+            "product_hirarchy": "002PC531AA17",
+            "material": "BH111092",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "509",
+            "product_hirarchy": "002PC531AA17",
+            "material": "CL201023",
+            "brand_varient": "RE 205  Petrol FL",
+            "description": "LAMP 12 VOLT-35/35W"
+        },
+        {
+            "sno": "510",
+            "product_hirarchy": "002PC5322424",
+            "material": "22161221",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "NO PLATE"
+        },
+        {
+            "sno": "511",
+            "product_hirarchy": "002PC5322424",
+            "material": "22230635",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "WIPER BLADE"
+        },
+        {
+            "sno": "512",
+            "product_hirarchy": "002PC5322424",
+            "material": "22250132",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "WHITE CABLE"
+        },
+        {
+            "sno": "513",
+            "product_hirarchy": "002PC5322424",
+            "material": "24161176",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "STRIP FOR FRONT MUDGUARD"
+        },
+        {
+            "sno": "514",
+            "product_hirarchy": "002PC5322424",
+            "material": "24165132",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "BRACKET NUMBER PLATE MTG."
+        },
+        {
+            "sno": "515",
+            "product_hirarchy": "002PC5322424",
+            "material": "24165273",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "516",
+            "product_hirarchy": "002PC5322424",
+            "material": "24165274",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "517",
+            "product_hirarchy": "002PC5322424",
+            "material": "24201472",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "518",
+            "product_hirarchy": "002PC5322424",
+            "material": "24201473",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "519",
+            "product_hirarchy": "002PC5322424",
+            "material": "24201526",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "ASSEMBLY WIPER MOTOR SMALL FL"
+        },
+        {
+            "sno": "520",
+            "product_hirarchy": "002PC5322424",
+            "material": "24221031",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "521",
+            "product_hirarchy": "002PC5322424",
+            "material": "24230185",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "522",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231090",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "ANGLE RIGHT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "523",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231091",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "ANGLE LEFT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "524",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231157",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "STRIP MUDGUARD"
+        },
+        {
+            "sno": "525",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231421",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "SPACER"
+        },
+        {
+            "sno": "526",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231499",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "SIDE PANAL"
+        },
+        {
+            "sno": "527",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231615",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "528",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231616",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "529",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231641",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "530",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231761",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "STRAP ALUMINIUM 1"
+        },
+        {
+            "sno": "531",
+            "product_hirarchy": "002PC5322424",
+            "material": "24231762",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "STRAP ALUMINIUM 2"
+        },
+        {
+            "sno": "532",
+            "product_hirarchy": "002PC5322424",
+            "material": "25231064",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "BEADING"
+        },
+        {
+            "sno": "533",
+            "product_hirarchy": "002PC5322424",
+            "material": "61090203",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "534",
+            "product_hirarchy": "002PC5322424",
+            "material": "AA101747",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "535",
+            "product_hirarchy": "002PC5322424",
+            "material": "AA221004",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "MIRROR"
+        },
+        {
+            "sno": "536",
+            "product_hirarchy": "002PC5322424",
+            "material": "AA251001",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "CABLE FARE MTR"
+        },
+        {
+            "sno": "537",
+            "product_hirarchy": "002PC5322424",
+            "material": "AF231078",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "D B.SEAT"
+        },
+        {
+            "sno": "538",
+            "product_hirarchy": "002PC5322424",
+            "material": "AP201058",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "CABING LAMP"
+        },
+        {
+            "sno": "539",
+            "product_hirarchy": "002PC5322424",
+            "material": "BH111092",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "540",
+            "product_hirarchy": "002PC5322424",
+            "material": "CL201023",
+            "brand_varient": "RE 2S  PETROL KS FL",
+            "description": "BULB"
+        },
+        {
+            "sno": "541",
+            "product_hirarchy": "002PC533BB07",
+            "material": "AA201263",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "ASSEMBLY WIPER MOTOR BIG FL"
+        },
+        {
+            "sno": "542",
+            "product_hirarchy": "002PC533BB07",
+            "material": "AL151013",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "WHEEL COMPLETE (4.5 X 10)"
+        },
+        {
+            "sno": "543",
+            "product_hirarchy": "002PC533BB07",
+            "material": "AL201034",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "PUMP ASSEMBLY - FUEL"
+        },
+        {
+            "sno": "544",
+            "product_hirarchy": "002PC533BB07",
+            "material": "AN161075",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "ROD TIE BATTERY"
+        },
+        {
+            "sno": "545",
+            "product_hirarchy": "002PC533BB07",
+            "material": "AT213001",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "STRIPE WOOD FIXING R.R"
+        },
+        {
+            "sno": "546",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB121107",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "ELBOW RUBBER LOWER END"
+        },
+        {
+            "sno": "547",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB161171",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "ASSEMBLY GUARD REAR FL"
+        },
+        {
+            "sno": "548",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB161175",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "BATTERY BASE FL"
+        },
+        {
+            "sno": "549",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB161226",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "CLAMP ASSEMBLY BATTERY FL"
+        },
+        {
+            "sno": "550",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB161227",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "PACKING BATTERY BASE"
+        },
+        {
+            "sno": "551",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB201030",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "LOCK BATTERY M6 WITH KEY"
+        },
+        {
+            "sno": "552",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB231141",
+            "brand_varient": "RE Maxima DIESEL",
+            "description": "MATTING - FOOT STEP :- LH"
+        },
+        {
+            "sno": "553",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB231142",
+            "brand_varient": "RE Maxima DIESEL",
+            "description": "MATTING - FOOT STEP :- RH"
+        },
+        {
+            "sno": "554",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB231225",
+            "brand_varient": "RE Maxima DIESEL",
+            "description": "MATTING - PASSENGER :- CENTRAL"
+        },
+        {
+            "sno": "555",
+            "product_hirarchy": "002PC533BB07",
+            "material": "BB231338",
+            "brand_varient": "RE MAXIMA DIESEL",
+            "description": "HOOD COMPLETE FL"
+        },
+        {
+            "sno": "556",
+            "product_hirarchy": "002PC534BH03",
+            "material": "24165132",
+            "brand_varient": "RE Optima DIESEL",
+            "description": "BRACKET FR NUMBER PLATE MTG REFL"
+        },
+        {
+            "sno": "557",
+            "product_hirarchy": "002PC534BH03",
+            "material": "24165215",
+            "brand_varient": "RE Optima DIESEL",
+            "description": "MAT FLOOR FRONT FL"
+        },
+        {
+            "sno": "558",
+            "product_hirarchy": "002PC535AF10",
+            "material": "22161221",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "NUMBER PLATE"
+        },
+        {
+            "sno": "559",
+            "product_hirarchy": "002PC535AF10",
+            "material": "22250132",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "CABLE ASSLEMBLY ELECTRIC WHITE"
+        },
+        {
+            "sno": "560",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24161446",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "HOLDER WATER BOTTLE"
+        },
+        {
+            "sno": "561",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24165132",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "BRACKET NUMBER PLATE MOUNTING"
+        },
+        {
+            "sno": "562",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24165273",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "563",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24165274",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "564",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24201472",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "565",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24201473",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "566",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24231421",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "SPACER BEHIND PASS BRACKET"
+        },
+        {
+            "sno": "567",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24231566",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "BACKREST ASSEMBLY DRIVER"
+        },
+        {
+            "sno": "568",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24231615",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "569",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24231616",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "570",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24231625",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "BRACKET WITH MOTOR MTG."
+        },
+        {
+            "sno": "571",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24231641",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "572",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24231761",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "STRIP ALUMINUM 1"
+        },
+        {
+            "sno": "573",
+            "product_hirarchy": "002PC535AF10",
+            "material": "24231762",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "STRIP ALUMINUM 2"
+        },
+        {
+            "sno": "574",
+            "product_hirarchy": "002PC535AF10",
+            "material": "25231064",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "BEADING FOR MUDGUARD"
+        },
+        {
+            "sno": "575",
+            "product_hirarchy": "002PC535AF10",
+            "material": "61090203",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "KIT FIRST AID MEDICAL"
+        },
+        {
+            "sno": "576",
+            "product_hirarchy": "002PC535AF10",
+            "material": "AA101747",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "577",
+            "product_hirarchy": "002PC535AF10",
+            "material": "AA201263",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "WIPER MOTOR ASSEMBLY REFL BIG"
+        },
+        {
+            "sno": "578",
+            "product_hirarchy": "002PC535AF10",
+            "material": "AA221030",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "579",
+            "product_hirarchy": "002PC535AF10",
+            "material": "AA231223",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "COVER WIPER MOTOR"
+        },
+        {
+            "sno": "580",
+            "product_hirarchy": "002PC535AF10",
+            "material": "AA251001",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "CABLE FARE METER"
+        },
+        {
+            "sno": "581",
+            "product_hirarchy": "002PC535AF10",
+            "material": "AL241023",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "WIPER BLADE ASSEMBLY"
+        },
+        {
+            "sno": "582",
+            "product_hirarchy": "002PC535AF10",
+            "material": "AP201058",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "CBAIN LAMO"
+        },
+        {
+            "sno": "583",
+            "product_hirarchy": "002PC535AF10",
+            "material": "BA201001",
+            "brand_varient": "RE COMPACT CNG 4S            ",
+            "description": "BATTERY (32 Ah) - CHARGED"
+        },
+        {
+            "sno": "584",
+            "product_hirarchy": "002PC535AF10",
+            "material": "BH111071",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "CAP WIPER MOTOR"
+        },
+        {
+            "sno": "585",
+            "product_hirarchy": "002PC535AF10",
+            "material": "BH111092",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "586",
+            "product_hirarchy": "002PC535AF10",
+            "material": "CL201023",
+            "brand_varient": "RE 205 CNG FL",
+            "description": "LAMP 12 VOLT-35/35W"
+        },
+        {
+            "sno": "587",
+            "product_hirarchy": "002PC536AM09",
+            "material": "22161221",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "NUMBER PLATE"
+        },
+        {
+            "sno": "588",
+            "product_hirarchy": "002PC536AM09",
+            "material": "22250132",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "CABLE ASSLEMBLY ELECTRIC WHITE"
+        },
+        {
+            "sno": "589",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24161446",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "HOLDER WATER BOTTLE"
+        },
+        {
+            "sno": "590",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24165132",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "BRACKET NUMBER PLATE MOUNTING"
+        },
+        {
+            "sno": "591",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24165137",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "BUMPER REAR REFL"
+        },
+        {
+            "sno": "592",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24165273",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "593",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24165274",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "594",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24201472",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "595",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24201473",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "596",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24231421",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "SPACER BEHIND PASS BRACKET"
+        },
+        {
+            "sno": "597",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24231566",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "BACKREST ASSEMBLY DRIVER"
+        },
+        {
+            "sno": "598",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24231615",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "599",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24231616",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "600",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24231625",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "BRACKET WITH MOTOR MTG."
+        },
+        {
+            "sno": "601",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24231641",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "602",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24231761",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "STRIP ALUMINUM 1"
+        },
+        {
+            "sno": "603",
+            "product_hirarchy": "002PC536AM09",
+            "material": "24231762",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "STRIP ALUMINUM 2"
+        },
+        {
+            "sno": "604",
+            "product_hirarchy": "002PC536AM09",
+            "material": "25231064",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "BEADING FOR MUDGUARD"
+        },
+        {
+            "sno": "605",
+            "product_hirarchy": "002PC536AM09",
+            "material": "61090203",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "KIT FIRST AID MEDICAL"
+        },
+        {
+            "sno": "606",
+            "product_hirarchy": "002PC536AM09",
+            "material": "AA101747",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "607",
+            "product_hirarchy": "002PC536AM09",
+            "material": "AA201263",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "WIPER MOTOR ASSEMBLY REFL BIG"
+        },
+        {
+            "sno": "608",
+            "product_hirarchy": "002PC536AM09",
+            "material": "AA221030",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "609",
+            "product_hirarchy": "002PC536AM09",
+            "material": "AA231223",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "COVER WIPER MOTOR"
+        },
+        {
+            "sno": "610",
+            "product_hirarchy": "002PC536AM09",
+            "material": "AA251001",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "CABLE FARE METER"
+        },
+        {
+            "sno": "611",
+            "product_hirarchy": "002PC536AM09",
+            "material": "AL241023",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "WIPER BLADE ASSEMBLY"
+        },
+        {
+            "sno": "612",
+            "product_hirarchy": "002PC536AM09",
+            "material": "AP201058",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "CBAIN LAMO"
+        },
+        {
+            "sno": "613",
+            "product_hirarchy": "002PC536AM09",
+            "material": "BB221004",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "JACK ASSEMBLY"
+        },
+        {
+            "sno": "614",
+            "product_hirarchy": "002PC536AM09",
+            "material": "BH111071",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "CAP WIPER MOTOR"
+        },
+        {
+            "sno": "615",
+            "product_hirarchy": "002PC536AM09",
+            "material": "BH111092",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "616",
+            "product_hirarchy": "002PC536AM09",
+            "material": "CL201023",
+            "brand_varient": "RE 205  LPG FL",
+            "description": "LAMP 12 VOLT-35/35W"
+        },
+        {
+            "sno": "617",
+            "product_hirarchy": "002PC537BA08",
+            "material": "24201526",
+            "brand_varient": "RE COMPACT DIESEL",
+            "description": "ASSEMBLY WIPER MOTOR SMALL FL"
+        },
+        {
+            "sno": "618",
+            "product_hirarchy": "002PC537BA08",
+            "material": "36BA4013",
+            "brand_varient": "RE COMPACT DIESEL",
+            "description": "KIT_IGNITION SWITCH(BA201173) W/O STARTE"
+        },
+        {
+            "sno": "619",
+            "product_hirarchy": "002PC537BA08",
+            "material": "AZ231000",
+            "brand_varient": "RE COMPACT DIESEL",
+            "description": "TOOL KIT COMPLETE FL"
+        },
+        {
+            "sno": "620",
+            "product_hirarchy": "002PC537BA08",
+            "material": "BA231151",
+            "brand_varient": "RE COMPACT DIESEL",
+            "description": "HOOD COMPLETE - BLACK"
+        },
+        {
+            "sno": "621",
+            "product_hirarchy": "002PC537BA09",
+            "material": "24231748",
+            "brand_varient": "RE COMPACT DIESEL SINGLE PIECE",
+            "description": "ASSEMBLY HOOD FRAME COMPLETE FL"
+        },
+        {
+            "sno": "622",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "22161221",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "NUMBER PLATE"
+        },
+        {
+            "sno": "623",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "24161446",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "HOLDER WATER BOTTLE"
+        },
+        {
+            "sno": "624",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "24165132",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "BRACET NO.PLATE MTG REFL"
+        },
+        {
+            "sno": "625",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "24170431",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "HOSE CLIP"
+        },
+        {
+            "sno": "626",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "24231615",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "627",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "24231616",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "628",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "24231625",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "BRACKET WIPER MOTOR MTG"
+        },
+        {
+            "sno": "629",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "24231641",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "630",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "61090203",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "631",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "AA161218",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "TRIM UPPER SMALL LH"
+        },
+        {
+            "sno": "632",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "AA161219",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "TRIM UPPER SMALL RH"
+        },
+        {
+            "sno": "633",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "AA201263",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "ASSEMBLY WIPER MOTOR BIG"
+        },
+        {
+            "sno": "634",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "AL241023",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "WIPER ARM BLADE ASSY."
+        },
+        {
+            "sno": "635",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "AP201058",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "CABIN LAMP"
+        },
+        {
+            "sno": "636",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "AZ231000",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "TOOLKIT COMPLETE"
+        },
+        {
+            "sno": "637",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "AZ581018",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "PIPE AIR INTAKE UPPER"
+        },
+        {
+            "sno": "638",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "AZ581021",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "ELBOW TOP END"
+        },
+        {
+            "sno": "639",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH111071",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "CAP WIPER MOTOR"
+        },
+        {
+            "sno": "640",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH181402",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "PLATE EOR MUD FLAP"
+        },
+        {
+            "sno": "641",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH181405",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "PLATE MUDFLAP SUPPORT LH"
+        },
+        {
+            "sno": "642",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH181406",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "PLATE MUDFLAP SUPPORT RH"
+        },
+        {
+            "sno": "643",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH185003",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "PACKING SNORKEL"
+        },
+        {
+            "sno": "644",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH191019",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "DRIVER BACK REST"
+        },
+        {
+            "sno": "645",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH233005",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "EMBLEM OPTIMA"
+        },
+        {
+            "sno": "646",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH581005",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "ELBOW RUBBER LOWER END"
+        },
+        {
+            "sno": "647",
+            "product_hirarchy": "002PC541AZ02",
+            "material": "BH581010",
+            "brand_varient": "RE OPTIMA CNG 4S",
+            "description": "CLIP ELBOW LOWER END"
+        },
+        {
+            "sno": "648",
+            "product_hirarchy": "002PC542RA03",
+            "material": "22161221",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "NUMBER PLATE"
+        },
+        {
+            "sno": "649",
+            "product_hirarchy": "002PC542RA03",
+            "material": "24161446",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "HOLDER WATER BOTTLE"
+        },
+        {
+            "sno": "650",
+            "product_hirarchy": "002PC542RA03",
+            "material": "24165132",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "BRACET NO.PLATE MTG REFL"
+        },
+        {
+            "sno": "651",
+            "product_hirarchy": "002PC542RA03",
+            "material": "24170431",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "HOSE CLIP"
+        },
+        {
+            "sno": "652",
+            "product_hirarchy": "002PC542RA03",
+            "material": "24231615",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "653",
+            "product_hirarchy": "002PC542RA03",
+            "material": "24231616",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "654",
+            "product_hirarchy": "002PC542RA03",
+            "material": "24231625",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "BRACKET WIPER MOTOR MTG"
+        },
+        {
+            "sno": "655",
+            "product_hirarchy": "002PC542RA03",
+            "material": "24231641",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "656",
+            "product_hirarchy": "002PC542RA03",
+            "material": "61090203",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "657",
+            "product_hirarchy": "002PC542RA03",
+            "material": "AA161218",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "TRIM UPPER SMALL LH"
+        },
+        {
+            "sno": "658",
+            "product_hirarchy": "002PC542RA03",
+            "material": "AA161219",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "TRIM UPPER SMALL RH"
+        },
+        {
+            "sno": "659",
+            "product_hirarchy": "002PC542RA03",
+            "material": "AA201263",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "ASSEMBLY WIPER MOTOR BIG"
+        },
+        {
+            "sno": "660",
+            "product_hirarchy": "002PC542RA03",
+            "material": "AL241023",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "WIPER ARM BLADE ASSY."
+        },
+        {
+            "sno": "661",
+            "product_hirarchy": "002PC542RA03",
+            "material": "AP201058",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "CABIN LAMP"
+        },
+        {
+            "sno": "662",
+            "product_hirarchy": "002PC542RA03",
+            "material": "AZ231000",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "TOOLKIT COMPLETE"
+        },
+        {
+            "sno": "663",
+            "product_hirarchy": "002PC542RA03",
+            "material": "AZ581018",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "PIPE AIR INTAKE UPPER"
+        },
+        {
+            "sno": "664",
+            "product_hirarchy": "002PC542RA03",
+            "material": "AZ581021",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "ELBOW TOP END"
+        },
+        {
+            "sno": "665",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH111071",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "CAP WIPER MOTOR"
+        },
+        {
+            "sno": "666",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH181402",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "PLATE EOR MUD FLAP"
+        },
+        {
+            "sno": "667",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH181405",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "PLATE MUDFLAP SUPPORT LH"
+        },
+        {
+            "sno": "668",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH181406",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "PLATE MUDFLAP SUPPORT RH"
+        },
+        {
+            "sno": "669",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH185003",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "PACKING SNORKEL"
+        },
+        {
+            "sno": "670",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH191019",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "DRIVER BACK REST"
+        },
+        {
+            "sno": "671",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH233005",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "EMBLEM OPTIMA"
+        },
+        {
+            "sno": "672",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH581005",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "ELBOW RUBBER LOWER END"
+        },
+        {
+            "sno": "673",
+            "product_hirarchy": "002PC542RA03",
+            "material": "BH581010",
+            "brand_varient": "RE 205  X  LPG FL",
+            "description": "CLIP ELBOW LOWER END"
+        },
+        {
+            "sno": "674",
+            "product_hirarchy": "002PC543AG05",
+            "material": "22151068",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "TYRE WITH TUBE"
+        },
+        {
+            "sno": "675",
+            "product_hirarchy": "002PC543AG05",
+            "material": "22161221",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "NO PLATE"
+        },
+        {
+            "sno": "676",
+            "product_hirarchy": "002PC543AG05",
+            "material": "22230635",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "WIPER BLADE"
+        },
+        {
+            "sno": "677",
+            "product_hirarchy": "002PC543AG05",
+            "material": "22250132",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "WHITE CABLE"
+        },
+        {
+            "sno": "678",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24151110",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "ASSEMBLY WHEEL RIM"
+        },
+        {
+            "sno": "679",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24161176",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "STRIP FOR FRONT MUDGUARD"
+        },
+        {
+            "sno": "680",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24165132",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "BRACKET NUMBER PLATE MTG."
+        },
+        {
+            "sno": "681",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24165273",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "682",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24165274",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "683",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24201472",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "684",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24201473",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "685",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24201526",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "ASSEMBLY WIPER MOTOR SMALL FL"
+        },
+        {
+            "sno": "686",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24221031",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "687",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24230185",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "688",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231090",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "ANGLE RIGHT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "689",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231091",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "ANGLE LEFT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "690",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231157",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "STRIP MUDGUARD"
+        },
+        {
+            "sno": "691",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231421",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "SPACER"
+        },
+        {
+            "sno": "692",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231499",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "SIDE PANAL"
+        },
+        {
+            "sno": "693",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231615",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "694",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231616",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "695",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231641",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "696",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231761",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "STRAP ALUMINIUM 1"
+        },
+        {
+            "sno": "697",
+            "product_hirarchy": "002PC543AG05",
+            "material": "24231762",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "STRAP ALUMINIUM 2"
+        },
+        {
+            "sno": "698",
+            "product_hirarchy": "002PC543AG05",
+            "material": "25231064",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "BEADING"
+        },
+        {
+            "sno": "699",
+            "product_hirarchy": "002PC543AG05",
+            "material": "61090203",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "700",
+            "product_hirarchy": "002PC543AG05",
+            "material": "AA101747",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "701",
+            "product_hirarchy": "002PC543AG05",
+            "material": "AA221004",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "MIRROR"
+        },
+        {
+            "sno": "702",
+            "product_hirarchy": "002PC543AG05",
+            "material": "AA251001",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "CABLE FARE MTR"
+        },
+        {
+            "sno": "703",
+            "product_hirarchy": "002PC543AG05",
+            "material": "AF231078",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "D B.SEAT"
+        },
+        {
+            "sno": "704",
+            "product_hirarchy": "002PC543AG05",
+            "material": "AP201058",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "CABING LAMP"
+        },
+        {
+            "sno": "705",
+            "product_hirarchy": "002PC543AG05",
+            "material": "BH111092",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "706",
+            "product_hirarchy": "002PC543AG05",
+            "material": "CL201023",
+            "brand_varient": "RE Compact LPG NES 2S",
+            "description": "BULB"
+        },
+        {
+            "sno": "707",
+            "product_hirarchy": "002PC544AS05",
+            "material": "22161221",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "NO PLATE"
+        },
+        {
+            "sno": "708",
+            "product_hirarchy": "002PC544AS05",
+            "material": "22230635",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "WIPER BLADE"
+        },
+        {
+            "sno": "709",
+            "product_hirarchy": "002PC544AS05",
+            "material": "22250132",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "WHITE CABLE"
+        },
+        {
+            "sno": "710",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24161176",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "STRIP FOR FRONT MUDGUARD"
+        },
+        {
+            "sno": "711",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24165132",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "BRACKET NUMBER PLATE MTG."
+        },
+        {
+            "sno": "712",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24165273",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "713",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24165274",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "714",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24201472",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "715",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24201473",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "716",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24201526",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "ASSEMBLY WIPER MOTOR SMALL FL"
+        },
+        {
+            "sno": "717",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24221031",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "718",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24230185",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "719",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231090",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "ANGLE RIGHT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "720",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231091",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "ANGLE LEFT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "721",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231157",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "STRIP MUDGUARD"
+        },
+        {
+            "sno": "722",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231421",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "SPACER"
+        },
+        {
+            "sno": "723",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231499",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "SIDE PANAL"
+        },
+        {
+            "sno": "724",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231615",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "725",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231616",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "726",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231641",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "727",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231761",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "STRAP ALUMINIUM 1"
+        },
+        {
+            "sno": "728",
+            "product_hirarchy": "002PC544AS05",
+            "material": "24231762",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "STRAP ALUMINIUM 2"
+        },
+        {
+            "sno": "729",
+            "product_hirarchy": "002PC544AS05",
+            "material": "25231064",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "BEADING"
+        },
+        {
+            "sno": "730",
+            "product_hirarchy": "002PC544AS05",
+            "material": "61090203",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "731",
+            "product_hirarchy": "002PC544AS05",
+            "material": "AA101747",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "732",
+            "product_hirarchy": "002PC544AS05",
+            "material": "AA221004",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "MIRROR"
+        },
+        {
+            "sno": "733",
+            "product_hirarchy": "002PC544AS05",
+            "material": "AA251001",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "CABLE FARE MTR"
+        },
+        {
+            "sno": "734",
+            "product_hirarchy": "002PC544AS05",
+            "material": "AF231078",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "D B.SEAT"
+        },
+        {
+            "sno": "735",
+            "product_hirarchy": "002PC544AS05",
+            "material": "AP201058",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "CABING LAMP"
+        },
+        {
+            "sno": "736",
+            "product_hirarchy": "002PC544AS05",
+            "material": "BH111092",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "737",
+            "product_hirarchy": "002PC544AS05",
+            "material": "CL201023",
+            "brand_varient": "RE Compact CNG NES 2S",
+            "description": "BULB"
+        },
+        {
+            "sno": "738",
+            "product_hirarchy": "002PC5512430",
+            "material": "22161221",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "NO PLATE"
+        },
+        {
+            "sno": "739",
+            "product_hirarchy": "002PC5512430",
+            "material": "22230635",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "WIPER BLADE"
+        },
+        {
+            "sno": "740",
+            "product_hirarchy": "002PC5512430",
+            "material": "22250132",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "WHITE CABLE"
+        },
+        {
+            "sno": "741",
+            "product_hirarchy": "002PC5512430",
+            "material": "24161176",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "STRIP FOR FRONT MUDGUARD"
+        },
+        {
+            "sno": "742",
+            "product_hirarchy": "002PC5512430",
+            "material": "24165132",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "BRACKET NUMBER PLATE MTG."
+        },
+        {
+            "sno": "743",
+            "product_hirarchy": "002PC5512430",
+            "material": "24165273",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "744",
+            "product_hirarchy": "002PC5512430",
+            "material": "24165274",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "745",
+            "product_hirarchy": "002PC5512430",
+            "material": "24201472",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "746",
+            "product_hirarchy": "002PC5512430",
+            "material": "24201473",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "747",
+            "product_hirarchy": "002PC5512430",
+            "material": "24201526",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "ASSEMBLY WIPER MOTOR SMALL FL"
+        },
+        {
+            "sno": "748",
+            "product_hirarchy": "002PC5512430",
+            "material": "24221031",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "749",
+            "product_hirarchy": "002PC5512430",
+            "material": "24230185",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "750",
+            "product_hirarchy": "002PC5512430",
+            "material": "24230411",
+            "brand_varient": "RE Compact PETROL ES",
+            "description": "BACK REST SUPPORT ASSEMBLY TOP"
+        },
+        {
+            "sno": "751",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231090",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "ANGLE RIGHT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "752",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231091",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "ANGLE LEFT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "753",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231157",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "STRIP MUDGUARD"
+        },
+        {
+            "sno": "754",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231421",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "SPACER"
+        },
+        {
+            "sno": "755",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231499",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "SIDE PANAL"
+        },
+        {
+            "sno": "756",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231615",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "757",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231616",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "758",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231620",
+            "brand_varient": "RE Compact PETROL ES",
+            "description": "ASSEMBLY BACKREST SUPPORT TOP"
+        },
+        {
+            "sno": "759",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231641",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "760",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231748",
+            "brand_varient": "RE Compact PETROL ES",
+            "description": "HOOD FRAME ASSY."
+        },
+        {
+            "sno": "761",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231761",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "STRAP ALUMINIUM 1"
+        },
+        {
+            "sno": "762",
+            "product_hirarchy": "002PC5512430",
+            "material": "24231762",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "STRAP ALUMINIUM 2"
+        },
+        {
+            "sno": "763",
+            "product_hirarchy": "002PC5512430",
+            "material": "25231064",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "BEADING"
+        },
+        {
+            "sno": "764",
+            "product_hirarchy": "002PC5512430",
+            "material": "61090203",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "765",
+            "product_hirarchy": "002PC5512430",
+            "material": "AA101747",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "766",
+            "product_hirarchy": "002PC5512430",
+            "material": "AA201239",
+            "brand_varient": "RE Compact PETROL ES",
+            "description": "HORN DC 12V"
+        },
+        {
+            "sno": "767",
+            "product_hirarchy": "002PC5512430",
+            "material": "AA221004",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "MIRROR"
+        },
+        {
+            "sno": "768",
+            "product_hirarchy": "002PC5512430",
+            "material": "AA251001",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "CABLE FARE MTR"
+        },
+        {
+            "sno": "769",
+            "product_hirarchy": "002PC5512430",
+            "material": "AF231078",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "D B.SEAT"
+        },
+        {
+            "sno": "770",
+            "product_hirarchy": "002PC5512430",
+            "material": "AP201058",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "CABING LAMP"
+        },
+        {
+            "sno": "771",
+            "product_hirarchy": "002PC5512430",
+            "material": "BH111092",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "772",
+            "product_hirarchy": "002PC5512430",
+            "material": "CL201023",
+            "brand_varient": "RE 2S  PETROL ES FL",
+            "description": "BULB"
+        },
+        {
+            "sno": "773",
+            "product_hirarchy": "002PC552AS07",
+            "material": "22161221",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "NO PLATE"
+        },
+        {
+            "sno": "774",
+            "product_hirarchy": "002PC552AS07",
+            "material": "22230635",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "WIPER BLADE"
+        },
+        {
+            "sno": "775",
+            "product_hirarchy": "002PC552AS07",
+            "material": "22250132",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "WHITE CABLE"
+        },
+        {
+            "sno": "776",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24161176",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "STRIP FOR FRONT MUDGUARD"
+        },
+        {
+            "sno": "777",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24165132",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "BRACKET NUMBER PLATE MTG."
+        },
+        {
+            "sno": "778",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24165273",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "779",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24165274",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "780",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24201472",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "781",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24201473",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "782",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24201526",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "ASSEMBLY WIPER MOTOR SMALL FL"
+        },
+        {
+            "sno": "783",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24221031",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "784",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24230185",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "785",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231090",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "ANGLE RIGHT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "786",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231091",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "ANGLE LEFT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "787",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231157",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "STRIP MUDGUARD"
+        },
+        {
+            "sno": "788",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231421",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "SPACER"
+        },
+        {
+            "sno": "789",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231499",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "SIDE PANAL"
+        },
+        {
+            "sno": "790",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231615",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "791",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231616",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "792",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231641",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "793",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231761",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "STRAP ALUMINIUM 1"
+        },
+        {
+            "sno": "794",
+            "product_hirarchy": "002PC552AS07",
+            "material": "24231762",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "STRAP ALUMINIUM 2"
+        },
+        {
+            "sno": "795",
+            "product_hirarchy": "002PC552AS07",
+            "material": "25231064",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "BEADING"
+        },
+        {
+            "sno": "796",
+            "product_hirarchy": "002PC552AS07",
+            "material": "61090203",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "797",
+            "product_hirarchy": "002PC552AS07",
+            "material": "AA101747",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "798",
+            "product_hirarchy": "002PC552AS07",
+            "material": "AA221004",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "MIRROR"
+        },
+        {
+            "sno": "799",
+            "product_hirarchy": "002PC552AS07",
+            "material": "AA251001",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "CABLE FARE MTR"
+        },
+        {
+            "sno": "800",
+            "product_hirarchy": "002PC552AS07",
+            "material": "AF231078",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "D B.SEAT"
+        },
+        {
+            "sno": "801",
+            "product_hirarchy": "002PC552AS07",
+            "material": "AP201058",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "CABING LAMP"
+        },
+        {
+            "sno": "802",
+            "product_hirarchy": "002PC552AS07",
+            "material": "BH111092",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "803",
+            "product_hirarchy": "002PC552AS07",
+            "material": "CL201023",
+            "brand_varient": "RE 2S CNG  ES FL",
+            "description": "BULB"
+        },
+        {
+            "sno": "804",
+            "product_hirarchy": "002PC553AG07",
+            "material": "22161221",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "NO PLATE"
+        },
+        {
+            "sno": "805",
+            "product_hirarchy": "002PC553AG07",
+            "material": "22230635",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "WIPER BLADE"
+        },
+        {
+            "sno": "806",
+            "product_hirarchy": "002PC553AG07",
+            "material": "22250132",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "WHITE CABLE"
+        },
+        {
+            "sno": "807",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24161176",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "STRIP FOR FRONT MUDGUARD"
+        },
+        {
+            "sno": "808",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24165132",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "BRACKET NUMBER PLATE MTG."
+        },
+        {
+            "sno": "809",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24165273",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "SLEEVE BUMPER MTG. SIDE"
+        },
+        {
+            "sno": "810",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24165274",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "SLEEVE BUMPER MTG. CENTER"
+        },
+        {
+            "sno": "811",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24201472",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "TAIL LAMP LH"
+        },
+        {
+            "sno": "812",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24201473",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "TAIL LAMP RH"
+        },
+        {
+            "sno": "813",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24201526",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "ASSEMBLY WIPER MOTOR SMALL FL"
+        },
+        {
+            "sno": "814",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24221031",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "TOOL KIT"
+        },
+        {
+            "sno": "815",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24230185",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "MUD FLAP"
+        },
+        {
+            "sno": "816",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231090",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "ANGLE RIGHT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "817",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231091",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "ANGLE LEFT HAND REAR MUD FLAP"
+        },
+        {
+            "sno": "818",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231157",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "STRIP MUDGUARD"
+        },
+        {
+            "sno": "819",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231421",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "SPACER"
+        },
+        {
+            "sno": "820",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231499",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "SIDE PANAL"
+        },
+        {
+            "sno": "821",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231615",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "JOINT PLATE LH REFL"
+        },
+        {
+            "sno": "822",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231616",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "JOINT PLATE RH REFL"
+        },
+        {
+            "sno": "823",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231641",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "PACKING SHIED AND WINDSHIELD"
+        },
+        {
+            "sno": "824",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231748",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "HOOD FRAME ASSY."
+        },
+        {
+            "sno": "825",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231761",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "STRAP ALUMINIUM 1"
+        },
+        {
+            "sno": "826",
+            "product_hirarchy": "002PC553AG07",
+            "material": "24231762",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "STRAP ALUMINIUM 2"
+        },
+        {
+            "sno": "827",
+            "product_hirarchy": "002PC553AG07",
+            "material": "25231064",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "BEADING"
+        },
+        {
+            "sno": "828",
+            "product_hirarchy": "002PC553AG07",
+            "material": "61090203",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "FIRST AID KIT"
+        },
+        {
+            "sno": "829",
+            "product_hirarchy": "002PC553AG07",
+            "material": "AA101747",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "SEAL RUBBER FARE METER"
+        },
+        {
+            "sno": "830",
+            "product_hirarchy": "002PC553AG07",
+            "material": "AA221004",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "MIRROR"
+        },
+        {
+            "sno": "831",
+            "product_hirarchy": "002PC553AG07",
+            "material": "AA251001",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "CABLE FARE MTR"
+        },
+        {
+            "sno": "832",
+            "product_hirarchy": "002PC553AG07",
+            "material": "AF231078",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "D B.SEAT"
+        },
+        {
+            "sno": "833",
+            "product_hirarchy": "002PC553AG07",
+            "material": "AP201058",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "CABING LAMP"
+        },
+        {
+            "sno": "834",
+            "product_hirarchy": "002PC553AG07",
+            "material": "BH111092",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "GROMMET FOR CABIN LAMP"
+        },
+        {
+            "sno": "835",
+            "product_hirarchy": "002PC553AG07",
+            "material": "CL201023",
+            "brand_varient": "RE 145 LPG ES  FL",
+            "description": "BULB"
+        },
+        {
+            "sno": "836",
+            "product_hirarchy": "BB221004",
+            "material": "E",
+            "brand_varient": "JACK ASSEMBLY",
+            "description": ""
+        }
+    ]
+}

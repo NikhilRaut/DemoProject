@@ -1,0 +1,623 @@
+{
+    "Brand": "Bajaj Auto Ltd",
+    "product": "AfterBuy",
+    "category": "TICL",
+    "legend": [
+        {
+            "sno": "1",
+            "damage_code": "DAM00001",
+            "material": "3W BUMPER DAMAGED",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "2",
+            "damage_code": "DAM00002",
+            "material": "BACK SIDE INDICATOR BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "3",
+            "damage_code": "DAM00003",
+            "material": "BREAK LEVER BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "4",
+            "damage_code": "DAM00004",
+            "material": "CABIN TOP DAMAGE",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "5",
+            "damage_code": "DAM00005",
+            "material": "CLUTCH LEVER BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "6",
+            "damage_code": "DAM00006",
+            "material": "DENT ON BACK DOOR",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "7",
+            "damage_code": "DAM00007",
+            "material": "DENT ON DOOR",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "8",
+            "damage_code": "DAM00008",
+            "material": "DENT ON FRONT MUDGUARD",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "9",
+            "damage_code": "DAM00009",
+            "material": "DENT ON FUEL (PETROL) TANK",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "10",
+            "damage_code": "DAM00010",
+            "material": "DENT ON SCUDO",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "11",
+            "damage_code": "DAM00011",
+            "material": "DRIVER SEAT TORN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "12",
+            "damage_code": "DAM00012",
+            "material": "FAIRING DAMAGED",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "13",
+            "damage_code": "DAM00013",
+            "material": "FRONT INDICATOR BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "14",
+            "damage_code": "DAM00014",
+            "material": "FRONT MUDGUARD BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "15",
+            "damage_code": "DAM00015",
+            "material": "GRAB HANDLE DAMAGED",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "16",
+            "damage_code": "DAM00016",
+            "material": "HANDLE BAR BEND",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "17",
+            "damage_code": "DAM00017",
+            "material": "HEAD LAMP BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "18",
+            "damage_code": "DAM00018",
+            "material": "HOOD TORN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "19",
+            "damage_code": "DAM00019",
+            "material": "LH BODY DAMAGE",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "20",
+            "damage_code": "DAM00020",
+            "material": "MIRROR BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "21",
+            "damage_code": "DAM00021",
+            "material": "MUD FLAP BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "22",
+            "damage_code": "DAM00022",
+            "material": "OTHERS",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "23",
+            "damage_code": "DAM00023",
+            "material": "PASSENGER BACK REST SEAT TORN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "24",
+            "damage_code": "DAM00024",
+            "material": "PASSENGER SEAT TORN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "25",
+            "damage_code": "DAM00025",
+            "material": "PLASTIC PETROL TANK DAMAGE",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "26",
+            "damage_code": "DAM00026",
+            "material": "RH BODY DAMAGE",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "27",
+            "damage_code": "DAM00027",
+            "material": "SEAT COWL (BELOW REAR SEAT) DAMAGED",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "28",
+            "damage_code": "DAM00028",
+            "material": "SEAT TORN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "29",
+            "damage_code": "DAM00029",
+            "material": "SIDE COVER (BELOW RIDER SEAT) DAMAGED",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "30",
+            "damage_code": "DAM00030",
+            "material": "SIDE STAND BENT",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "31",
+            "damage_code": "DAM00031",
+            "material": "SPEEDOMETER DAMAGED",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "32",
+            "damage_code": "DAM00032",
+            "material": "STICKER ON FUEL TANK DAMAGED",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "33",
+            "damage_code": "DAM00033",
+            "material": "SWITCH BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "34",
+            "damage_code": "DAM00034",
+            "material": "TAIL LAMP BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "35",
+            "damage_code": "DAM00035",
+            "material": "TREY ASSEMBLY DAMAGE",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "36",
+            "damage_code": "DAM00036",
+            "material": "WINDSHIELD GLASS BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "37",
+            "damage_code": "DAM00037",
+            "material": "WINDSHIELD SIDE GLASS BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "38",
+            "damage_code": "DAM00038",
+            "material": "3W BUMPER SCRATCHED",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "39",
+            "damage_code": "DAM00039",
+            "material": "BREAK LEVER SCRATCHES",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "40",
+            "damage_code": "DAM00040",
+            "material": "CROSS BAR BEND",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "41",
+            "damage_code": "DAM00041",
+            "material": "HOOD FRAME BEND",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "42",
+            "damage_code": "DAM00042",
+            "material": "HOOD PIPE BEND",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "43",
+            "damage_code": "DAM00043",
+            "material": "LH BODY SCRATCHES",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "44",
+            "damage_code": "DAM00044",
+            "material": "MUD FLAP BENT OR TWISTED",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "45",
+            "damage_code": "DAM00045",
+            "material": "OTHERS",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "46",
+            "damage_code": "DAM00046",
+            "material": "PETROL TANK GUARD DAMAGE",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "47",
+            "damage_code": "DAM00047",
+            "material": "RH BODY SCRATCHES",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "48",
+            "damage_code": "DAM00048",
+            "material": "SCRATCHES ON BACK DOOR",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "49",
+            "damage_code": "DAM00049",
+            "material": "SCRATCHES ON CABIN TOP",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "50",
+            "damage_code": "DAM00050",
+            "material": "SCRATCHES ON CHAIN COVER",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "51",
+            "damage_code": "DAM00051",
+            "material": "SCRATCHES ON CLUTCH LEVER",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "52",
+            "damage_code": "DAM00052",
+            "material": "SCRATCHES ON DOOR",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "53",
+            "damage_code": "DAM00053",
+            "material": "SCRATCHES ON FAIRING",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "54",
+            "damage_code": "DAM00054",
+            "material": "SCRATCHES ON FRONT MUDGUARD",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "55",
+            "damage_code": "DAM00055",
+            "material": "DENT ON SILENCER",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "56",
+            "damage_code": "DAM00056",
+            "material": "SCRATCHES ON GRAB HANDLE",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "57",
+            "damage_code": "DAM00057",
+            "material": "SCRATCHES ON HEAD LAMP RIM",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "58",
+            "damage_code": "DAM00058",
+            "material": "SCRATCHES ON SCUDO",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "59",
+            "damage_code": "DAM00059",
+            "material": "SCRATCHES ON SEAT COWL (BELOW REAT SEAT)",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "60",
+            "damage_code": "DAM00060",
+            "material": "SCRATCHES ON SIDE COVER (BELOW RIDER SEA",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "61",
+            "damage_code": "DAM00061",
+            "material": "SCRATCHES ON SILENCER",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "62",
+            "damage_code": "DAM00062",
+            "material": "SCRATCHES TREY ASSEMBLY",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "63",
+            "damage_code": "DAM00063",
+            "material": "SCTACHES ON XCD SPOILER",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "64",
+            "damage_code": "DAM00064",
+            "material": "WRINKLES ON SEAT",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "65",
+            "damage_code": "DAM00065",
+            "material": "KEY BROKEN",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "66",
+            "damage_code": "DAM00066",
+            "material": "SCRATCHES ON REAR FENDER",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "67",
+            "damage_code": "DAM00067",
+            "material": "SCRATCHES ON PETROL TANK",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "68",
+            "damage_code": "DAM00068",
+            "material": "SCRATCHES ON WINDSHIELD",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "69",
+            "damage_code": "DAM00069",
+            "material": "CUT IN SEAT",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "70",
+            "damage_code": "DAM00070",
+            "material": "HARNESS CUT / SPOILED",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "71",
+            "damage_code": "DAM00071",
+            "material": "Number Plate-Front-Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "72",
+            "damage_code": "DAM00072",
+            "material": "Number Plate-Front-Damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "73",
+            "damage_code": "DAM00073",
+            "material": "Number Plate-Rear-Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "74",
+            "damage_code": "DAM00074",
+            "material": "Number Plate-Rear-Damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "75",
+            "damage_code": "DAM00075",
+            "material": "Foot Rest-Front-Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "76",
+            "damage_code": "DAM00076",
+            "material": "Foot Rest-Front-Damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "77",
+            "damage_code": "DAM00077",
+            "material": "Foot Rest-Rear-Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "78",
+            "damage_code": "DAM00078",
+            "material": "Foot Rest-Rear-Damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "79",
+            "damage_code": "DAM00079",
+            "material": "Suspension-Front-Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "80",
+            "damage_code": "DAM00080",
+            "material": "Suspension-Front-Damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "81",
+            "damage_code": "DAM00081",
+            "material": "Suspension-Rear-Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "82",
+            "damage_code": "DAM00082",
+            "material": "Suspension-Rear-Damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "83",
+            "damage_code": "DAM00083",
+            "material": "Radiator-Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "84",
+            "damage_code": "DAM00084",
+            "material": "Radiator-Damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "85",
+            "damage_code": "DAM00085",
+            "material": "Back panel assly-Damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "86",
+            "damage_code": "DAM00086",
+            "material": "Back panel assly-Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        },
+        {
+            "sno": "87",
+            "damage_code": "DAM00087",
+            "material": "Rear Wheel Rim Assembly damage",
+            "damage_type_code": "2",
+            "damage_type": "Minor Damage"
+        },
+        {
+            "sno": "88",
+            "damage_code": "DAM00088",
+            "material": "Rear Wheel Rim Scratch",
+            "damage_type_code": "3",
+            "damage_type": "Major Damage"
+        }
+    ]
+}

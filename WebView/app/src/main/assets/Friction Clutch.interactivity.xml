@@ -1,0 +1,2472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ipc>
+	<figure>
+		<metadata/>
+		<media id="1" type="vm/vrml" src="Friction Clutch.wrl">
+			<value name="IllustrationType">0</value>
+			<value name="3DBackgroundColor">#E9E9FF</value>
+			<value name="3DSelectedColor">#FFFF00</value>
+			<value name="TableBackgroundColor">#FFFFFF</value>
+			<value name="TableTextColor">#000000</value>
+			<value name="TableBackgroundColorSel">#EEEE00</value>
+			<value name="TableBackgroundColorHL">#C8E2E2</value>
+			<value name="TableBackgroundColorHLNotIll">#FFE4E1</value>
+			<value name="TableInactiveTextColor">#808080</value>
+			<value name="2DSelectedColor">#FFFF00</value>
+			<value name="2DHighLightColor">#00FF00</value>
+			<value name="ContextMenuBackgroundColor">#FFFFFF</value>
+			<value name="RemoveSpace">No</value>
+			<value name="SimplifyFloats">No</value>
+			<value name="CoordinateResolution">0</value>
+			<value name="TooltipFormat">Item:%[ITEM]</value>
+			<value name="Viewer2DType">1</value>
+			<value name="UrlTarget">_blank</value>
+			<value name="DITATopic">No</value>
+			<value name="ForceDirectX">Yes</value>
+			<value name="PublisherVersion">7.2.0.325 (64-bit)</value>
+			<value name="SpecID">GENERIC_IPC</value>
+			<value name="SpecVersion">1.15</value>
+		</media>
+		<media id="2f2e030" type="image/cgm" src="Friction Clutch.cgm">
+			<value name="Name">
+				<![CDATA[Friction Clutch]]>
+			</value>
+			<value name="Description"/>
+		</media>
+		<dplist>
+			<item id="2ebe430" refPart="2eb0e30">
+				<metadata>
+					<value id="2f30bd0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f31950" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f31c20" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f319e0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f30510" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:1]]>
+				</tooltip>
+				<commands>
+					<command id="2ed0600" type="DFP" changed="0">
+						<value refMeta="2f31c20" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9d360" name="Description For Part">
+							<![CDATA[Coil cover]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Cuerpo-1_(Predeterminado)_1</refmedia>
+			</item>
+			<item id="2ebed90" refPart="2eb12f0">
+				<metadata>
+					<value id="2f31a70" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[2]]>
+					</value>
+					<value id="2f30750" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f305a0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f310e0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f30630" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:2]]>
+				</tooltip>
+				<commands>
+					<command id="2ea7090" type="DFP" changed="0">
+						<value refMeta="2f305a0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9cdc0" name="Description For Part">
+							<![CDATA[Motor Shaft ]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Eje-1_(Predeterminado)_5</refmedia>
+			</item>
+			<item id="2ebe730" refPart="2e7a0f0">
+				<metadata>
+					<value id="2f306c0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[3]]>
+					</value>
+					<value id="2f31050" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f31b00" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f30870" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f30ea0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:3]]>
+				</tooltip>
+				<commands>
+					<command id="2f397d0" type="DFP" changed="0">
+						<value refMeta="2f31b00" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9e0e0" name="Description For Part">
+							<![CDATA[Bearing -1]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">rodamiento-1_(Predeterminado)_6</refmedia>
+			</item>
+			<item id="2ebe8b0" refPart="2eabd10">
+				<metadata>
+					<value id="2f30fc0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[4]]>
+					</value>
+					<value id="2f31170" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f31200" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f31290" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f313b0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:4]]>
+				</tooltip>
+				<commands>
+					<command id="2f39ae0" type="DFP" changed="0">
+						<value refMeta="2f31200" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9d120" name="Description For Part">
+							<![CDATA[Bearing -2]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">rodamiento-2_(Predeterminado)_7</refmedia>
+			</item>
+			<item id="2e62860" refPart="2d593a0">
+				<metadata>
+					<value id="2f3db00" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[5]]>
+					</value>
+					<value id="2f3d9e0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3cab0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3e490" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3c870" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:5]]>
+				</tooltip>
+				<commands>
+					<command id="2f3a4f0" type="DFP" changed="0">
+						<value refMeta="2f3cab0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9d240" name="Description For Part">
+							<![CDATA[Motor Cap]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Tapa_inferior-1_(Predeterminado)_8</refmedia>
+			</item>
+			<item id="2ebed30" refPart="2e79eb0">
+				<metadata>
+					<value id="2f3cd80" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[6]]>
+					</value>
+					<value id="2f3d830" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3e250" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3d200" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3d560" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:6]]>
+				</tooltip>
+				<commands>
+					<command id="2f39b50" type="DFP" changed="0">
+						<value refMeta="2f3e250" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e99730" name="Description For Part">
+							<![CDATA[Motor Cap]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Tapa_superior-1_(Predeterminado)_9</refmedia>
+			</item>
+			<item id="2e628c0" refPart="2f27c60">
+				<metadata>
+					<value id="2f3d290" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[7]]>
+					</value>
+					<value id="2f3e010" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3d5f0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3ce10" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3e2e0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:7]]>
+				</tooltip>
+				<commands>
+					<command id="2f3a480" type="DFP" changed="0">
+						<value refMeta="2f3d5f0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9aae0" name="Description For Part">
+							<![CDATA[Rotor ]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Rotor-1_(Predeterminado)_10</refmedia>
+			</item>
+			<item id="2e629e0" refPart="2f27260">
+				<metadata>
+					<value id="2f3d320" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[8]]>
+					</value>
+					<value id="2f3cb40" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3d680" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3e130" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3db90" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:8]]>
+				</tooltip>
+				<commands>
+					<command id="2f39d10" type="DFP" changed="0">
+						<value refMeta="2f3d680" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9a300" name="Description For Part">
+							<![CDATA[Coil insert 1]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Aislante_plastico-1_(Predeterminado)_12</refmedia>
+			</item>
+			<item id="2f12c70" refPart="2f27160">
+				<metadata>
+					<value id="2f3d8c0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[9]]>
+					</value>
+					<value id="2f3dc20" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3cbd0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3e1c0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3cea0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:9]]>
+				</tooltip>
+				<commands>
+					<command id="2f3a410" type="DFP" changed="0">
+						<value refMeta="2f3cbd0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9a270" name="Description For Part">
+							<![CDATA[Coil insert 2]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Aislante_plastico-2_(Predeterminado)_15</refmedia>
+			</item>
+			<item id="2ebeb50" refPart="2f27020">
+				<metadata>
+					<value id="2f3e370" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[10]]>
+					</value>
+					<value id="2f3d3b0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3cf30" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3d950" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3cc60" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:10]]>
+				</tooltip>
+				<commands>
+					<command id="2f43790" type="DFP" changed="0">
+						<value refMeta="2f3cf30" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9a1e0" name="Description For Part">
+							<![CDATA[Coil]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Bobinado-2_(Predeterminado)_18</refmedia>
+			</item>
+			<item id="2f134b0" refPart="2f271a0">
+				<metadata>
+					<value id="2f3df80" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[11]]>
+					</value>
+					<value id="2f3cfc0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3ca20" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3def0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3d710" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:11]]>
+				</tooltip>
+				<commands>
+					<command id="2f42a70" type="DFP" changed="0">
+						<value refMeta="2f3ca20" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e9ae40" name="Description For Part">
+							<![CDATA[Coil]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Bobinado-3_(Predeterminado)_19</refmedia>
+			</item>
+			<item id="2e62800" refPart="2f27ce0">
+				<metadata>
+					<value id="2f3e0a0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[12]]>
+					</value>
+					<value id="2f3dcb0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3ccf0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3d7a0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3c900" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:12]]>
+				</tooltip>
+				<commands>
+					<command id="2f43090" type="DFP" changed="0">
+						<value refMeta="2f3ccf0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e99190" name="Description For Part">
+							<![CDATA[Coil]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Bobinado-4_(Predeterminado)_20</refmedia>
+			</item>
+			<item id="2f131b0" refPart="2f26ee0">
+				<metadata>
+					<value id="2f3d050" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[13]]>
+					</value>
+					<value id="2f3c6c0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3d0e0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3dd40" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3c7e0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:13]]>
+				</tooltip>
+				<commands>
+					<command id="2f43330" type="DFP" changed="0">
+						<value refMeta="2f3d0e0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2eb80e0" name="Description For Part">
+							<![CDATA[Coil]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Bobinado-5_(Predeterminado)_21</refmedia>
+			</item>
+			<item id="2e627a0" refPart="2f271e0">
+				<metadata>
+					<value id="2f3ddd0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[14]]>
+					</value>
+					<value id="2f3da70" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3de60" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3d170" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3d4d0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:14]]>
+				</tooltip>
+				<commands>
+					<command id="2f42f40" type="DFP" changed="0">
+						<value refMeta="2f3de60" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2eb8170" name="Description For Part">
+							<![CDATA[Coil]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Bobinado-6_(Predeterminado)_22</refmedia>
+			</item>
+			<item id="2f12af0" refPart="2f27120">
+				<metadata>
+					<value id="2f3e400" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[15]]>
+					</value>
+					<value id="2f3d440" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3c990" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f3e520" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f3c630" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:15]]>
+				</tooltip>
+				<commands>
+					<command id="2f43170" type="DFP" changed="0">
+						<value refMeta="2f3c990" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2eb8290" name="Description For Part">
+							<![CDATA[Coil]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Bobinado-7_(Predeterminado)_23</refmedia>
+			</item>
+			<item id="2ebe790" refPart="2f26f20">
+				<metadata>
+					<value id="2f3c750" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[16]]>
+					</value>
+					<value id="2f4ded0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e620" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4ea10" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4d930" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:16]]>
+				</tooltip>
+				<commands>
+					<command id="2f43800" type="DFP" changed="0">
+						<value refMeta="2f4e620" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2eb7fc0" name="Description For Part">
+							<![CDATA[Coil]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Bobinado-8_(Predeterminado)_24</refmedia>
+			</item>
+			<item id="2ebec70" refPart="2f27a60">
+				<metadata>
+					<value id="2f4d9c0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[17]]>
+					</value>
+					<value id="2f4ddb0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4d8a0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4dae0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4e1a0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:17]]>
+				</tooltip>
+				<commands>
+					<command id="2f50430" type="DFP" changed="0">
+						<value refMeta="2f4d8a0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2eb8050" name="Description For Part">
+							<![CDATA[Coil]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Bobinado-9_(Predeterminado)_25</refmedia>
+			</item>
+			<item id="2ebebb0" refPart="2f27820">
+				<metadata>
+					<value id="2f4dff0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[18]]>
+					</value>
+					<value id="2f4eaa0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4dc90" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e590" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4d780" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:18]]>
+				</tooltip>
+				<commands>
+					<command id="2f4f940" type="DFP" changed="0">
+						<value refMeta="2f4dc90" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e61ca0" name="Description For Part">
+							<![CDATA[Washer ]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Arandela_ajuste-1_(Predeterminado)_11</refmedia>
+			</item>
+			<item id="2e62740" refPart="2f27860">
+				<metadata>
+					<value id="2f4db70" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[19]]>
+					</value>
+					<value id="2f4da50" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4eb30" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4efb0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4ef20" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:19]]>
+				</tooltip>
+				<commands>
+					<command id="2f500b0" type="DFP" changed="0">
+						<value refMeta="2f4eb30" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e621b0" name="Description For Part">
+							<![CDATA[Washer ]]>
+						</value>
+					</command>
+				</commands>
+				<refmedia ref="1">Arandela_de_goma-1_(Predeterminado)_26</refmedia>
+			</item>
+			<item id="2e62920" refPart="2f272e0">
+				<metadata>
+					<value id="2f4dc00" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[20]]>
+					</value>
+					<value id="2f4e6b0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4dd20" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e740" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4de40" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:20]]>
+				</tooltip>
+				<commands>
+					<command id="2f50350" type="DFP" changed="0">
+						<value refMeta="2f4dd20" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e61e50" name="Description For Part">
+							<![CDATA[Coil Assembly ]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2f12a90" refPart="2f27320">
+				<metadata>
+					<value id="2f4e8f0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[21]]>
+					</value>
+					<value id="2f4d810" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e110" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4df60" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4ebc0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:21]]>
+				</tooltip>
+				<commands>
+					<command id="2f50040" type="DFP" changed="0">
+						<value refMeta="2f4e110" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2e81cb0" name="Description For Part">
+							<![CDATA[Plain washer ]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2f136f0" refPart="2f274a0">
+				<metadata>
+					<value id="2f4f040" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[22]]>
+					</value>
+					<value id="2f4e980" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e2c0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e080" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4e230" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:22]]>
+				</tooltip>
+				<commands>
+					<command id="2f4fb70" type="DFP" changed="0">
+						<value refMeta="2f4e2c0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2ec8130" name="Description For Part">
+							<![CDATA[nut]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2ebe7f0" refPart="2f275a0">
+				<metadata>
+					<value id="2f4e350" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[23]]>
+					</value>
+					<value id="2f4e7d0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e860" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4f1f0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4f280" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:23]]>
+				</tooltip>
+				<commands>
+					<command id="2f502e0" type="DFP" changed="0">
+						<value refMeta="2f4e860" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f29550" name="Description For Part">
+							<![CDATA[bolt]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2ebe910" refPart="2f276e0">
+				<metadata>
+					<value id="2f4ec50" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[24]]>
+					</value>
+					<value id="2f4e3e0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e470" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4e500" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4ece0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:24]]>
+				</tooltip>
+				<commands>
+					<command id="2f58610" type="DFP" changed="0">
+						<value refMeta="2f4e470" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f2a2d0" name="Description For Part">
+							<![CDATA[coil inner wall ]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2ebe970" refPart="2f27a20">
+				<metadata>
+					<value id="2f4ed70" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[25]]>
+					</value>
+					<value id="2f4f0d0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4ee00" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4ee90" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4f160" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:25]]>
+				</tooltip>
+				<commands>
+					<command id="2f58ed0" type="DFP" changed="0">
+						<value refMeta="2f4ee00" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f29280" name="Description For Part">
+							<![CDATA[magnetic shaft ]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2ebe850" refPart="2f278e0">
+				<metadata>
+					<value id="2f4b380" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[26]]>
+					</value>
+					<value id="2f4b410" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4c070" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4c460" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4ca00" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:26]]>
+				</tooltip>
+				<commands>
+					<command id="2f586f0" type="DFP" changed="0">
+						<value refMeta="2f4c070" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f29790" name="Description For Part">
+							<![CDATA[liner ]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2e626e0" refPart="2f27be0">
+				<metadata>
+					<value id="2f4b5c0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[27]]>
+					</value>
+					<value id="2f4d300" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4bf50" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4c6a0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4b650" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:27]]>
+				</tooltip>
+				<commands>
+					<command id="2f58760" type="DFP" changed="0">
+						<value refMeta="2f4bf50" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f2a240" name="Description For Part">
+							<![CDATA[magnetic coil]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2f130f0" refPart="2f2bd10">
+				<metadata>
+					<value id="2f4ca90" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[28]]>
+					</value>
+					<value id="2f4cbb0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4c4f0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4c2b0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4c3d0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:28]]>
+				</tooltip>
+				<commands>
+					<command id="2f58a00" type="DFP" changed="0">
+						<value refMeta="2f4c4f0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f29700" name="Description For Part">
+							<![CDATA[ball bearing ]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2ebeaf0" refPart="2f2b050">
+				<metadata>
+					<value id="2f4c220" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[29]]>
+					</value>
+					<value id="2f4c340" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4d6f0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4d270" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4c730" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:29]]>
+				</tooltip>
+				<commands>
+					<command id="2f58840" type="DFP" changed="0">
+						<value refMeta="2f4d6f0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f2a870" name="Description For Part">
+							<![CDATA[ball bearing ]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2f13390" refPart="2f2bb10">
+				<metadata>
+					<value id="2f4b4a0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[30]]>
+					</value>
+					<value id="2f4c580" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4c7c0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4c100" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4bda0" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:30]]>
+				</tooltip>
+				<commands>
+					<command id="2f58450" type="DFP" changed="0">
+						<value refMeta="2f4c7c0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f29f70" name="Description For Part">
+							<![CDATA[ball bearing]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2f13210" refPart="2f2b1d0">
+				<metadata>
+					<value id="2f4c190" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[31]]>
+					</value>
+					<value id="2f4c850" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4c610" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4cc40" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4cb20" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:31]]>
+				</tooltip>
+				<commands>
+					<command id="9ae57e0" type="DFP" changed="0">
+						<value refMeta="2f4c610" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f29e50" name="Description For Part">
+							<![CDATA[MS 32-Flat]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2ebefd0" refPart="2f2b5d0">
+				<metadata>
+					<value id="2f4c8e0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[32]]>
+					</value>
+					<value id="2f4d660" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4ccd0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4bec0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4cf10" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:32]]>
+				</tooltip>
+				<commands>
+					<command id="9ae5930" type="DFP" changed="0">
+						<value refMeta="2f4ccd0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f28e90" name="Description For Part">
+							<![CDATA[MS 28- rivet ]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2f12a30" refPart="2f274a0">
+				<metadata>
+					<value id="2f4c970" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0">
+						<![CDATA[2]]>
+					</value>
+					<value id="2f4cd60" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[33]]>
+					</value>
+					<value id="2f4d390" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4cdf0" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4d420" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:33]]>
+				</tooltip>
+				<commands>
+					<command id="9ae5b60" type="DFP" changed="0">
+						<value refMeta="2f4d390" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2ec8130" name="Description For Part">
+							<![CDATA[nut]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2f12c10" refPart="2f274a0">
+				<metadata>
+					<value id="2f4ce80" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0">
+						<![CDATA[4]]>
+					</value>
+					<value id="2f4cfa0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[34]]>
+					</value>
+					<value id="2f4d030" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4be30" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[2]]>
+					</value>
+					<value id="2f4d4b0" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:34]]>
+				</tooltip>
+				<commands>
+					<command id="9ae5850" type="DFP" changed="0">
+						<value refMeta="2f4d030" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2ec8130" name="Description For Part">
+							<![CDATA[nut]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+			<item id="2e62aa0" refPart="2f2b890">
+				<metadata>
+					<value id="2f4d0c0" name="ITEM" decl-id="ITEM" changed="0" role="3">
+						<![CDATA[35]]>
+					</value>
+					<value id="2f4d150" name="Quantity" decl-id="QNA" changed="0" role="6">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4d1e0" name="Indent" decl-id="IND" changed="0" role="5">
+						<![CDATA[1]]>
+					</value>
+					<value id="2f4b530" name="URL" decl-id="_B479653540A9423B8170B31E38783811" changed="0"/>
+					<value id="2f4d540" name="$SEQ#" decl-id="_686EBBFDF7C1494FBDB6D4C06B0B8EBF" changed="0">
+						<![CDATA[5]]>
+					</value>
+				</metadata>
+				<tooltip>
+					<![CDATA[Item:35]]>
+				</tooltip>
+				<commands>
+					<command id="9ae4f90" type="DFP" changed="0">
+						<value refMeta="2f4d1e0" name="Indent">
+							<![CDATA[1]]>
+						</value>
+						<value refMeta="2f299d0" name="Description For Part">
+							<![CDATA[MS 24- Plain]]>
+						</value>
+					</command>
+				</commands>
+			</item>
+		</dplist>
+		<ipc-table>
+			<table>
+				<thead>
+					<row>
+						<entry/>
+						<entry column-id="ITEM" width="4">
+							<para>
+								<![CDATA[ITEM]]>
+							</para>
+						</entry>
+						<entry column-id="DESCR" width="30">
+							<para>
+								<![CDATA[DESCRIPTION]]>
+							</para>
+						</entry>
+						<entry column-id="PARTNUMBER" width="20">
+							<para>
+								<![CDATA[PART NO.]]>
+							</para>
+						</entry>
+						<entry column-id="QTY" width="3">
+							<para>
+								<![CDATA[QTY]]>
+							</para>
+						</entry>
+						<entry column-id="INFO" width="12">
+							<para>
+								<![CDATA[INFO]]>
+							</para>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row refItem="2ebe430">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2ed0600">
+								<![CDATA[Coil cover]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[458781]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebed90">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[2]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2ea7090">
+								<![CDATA[Motor Shaft ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[785643]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebe730">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[3]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f397d0">
+								<![CDATA[Bearing -1]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[328641]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebe8b0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[4]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f39ae0">
+								<![CDATA[Bearing -2]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[328641(2)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e62860">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[5]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f3a4f0">
+								<![CDATA[Motor Cap]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[438657]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebed30">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[6]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f39b50">
+								<![CDATA[Motor Cap]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[438657(2)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e628c0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[7]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f3a480">
+								<![CDATA[Rotor ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[329647]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e629e0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[8]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f39d10">
+								<![CDATA[Coil insert 1]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[265981]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f12c70">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[9]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f3a410">
+								<![CDATA[Coil insert 2]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[265981(2)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebeb50">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[10]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f43790">
+								<![CDATA[Coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[554332]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f134b0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[11]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f42a70">
+								<![CDATA[Coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[554332(2)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e62800">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[12]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f43090">
+								<![CDATA[Coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[554332(3)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f131b0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[13]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f43330">
+								<![CDATA[Coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[554332(4)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e627a0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[14]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f42f40">
+								<![CDATA[Coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[554332(5)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f12af0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[15]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f43170">
+								<![CDATA[Coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[554332(6)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebe790">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[16]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f43800">
+								<![CDATA[Coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[554332(7)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebec70">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[17]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f50430">
+								<![CDATA[Coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[554332(8)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebebb0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[18]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f4f940">
+								<![CDATA[Washer ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[431167]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e62740">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[19]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f500b0">
+								<![CDATA[Washer ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[431167(2)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e62920">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[20]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f50350">
+								<![CDATA[Coil Assembly ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[563289]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f12a90">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[21]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f50040">
+								<![CDATA[Plain washer ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[445689]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f136f0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[22]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f4fb70">
+								<![CDATA[nut]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[112658]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebe7f0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[23]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f502e0">
+								<![CDATA[bolt]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[556881]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebe910">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[24]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f58610">
+								<![CDATA[coil inner wall ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[152487]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebe970">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[25]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f58ed0">
+								<![CDATA[magnetic shaft ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[556898]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebe850">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[26]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f586f0">
+								<![CDATA[liner ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[556987]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e626e0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[27]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f58760">
+								<![CDATA[magnetic coil]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[669845]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f130f0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[28]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f58a00">
+								<![CDATA[ball bearing ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[144658]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebeaf0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[29]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f58840">
+								<![CDATA[ball bearing ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[144658(2)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f13390">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[30]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="2f58450">
+								<![CDATA[ball bearing]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[144658(3)]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f13210">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[31]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="9ae57e0">
+								<![CDATA[MS 32-Flat]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[222658]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2ebefd0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[32]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="9ae5930">
+								<![CDATA[MS 28- rivet ]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[265984]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f12a30">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[33]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="9ae5b60">
+								<![CDATA[nut]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[112658]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2f12c10">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[34]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="9ae5850">
+								<![CDATA[nut]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[112658]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[2]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row refItem="2e62aa0">
+						<entry>
+							<para/>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[35]]>
+							</para>
+						</entry>
+						<entry>
+							<cmdtext refCmd="9ae4f90">
+								<![CDATA[MS 24- Plain]]>
+							</cmdtext>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[226584]]>
+							</para>
+						</entry>
+						<entry>
+							<para>
+								<![CDATA[1]]>
+							</para>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+				</tbody>
+			</table>
+		</ipc-table>
+		<bgmedia/>
+		<views>
+			<view id="view_0" stepid="view_0" changed="0" revst="U" hidden="0">
+				<description>Motor Assembly</description>
+				<viewpoint>
+					<refmedia ref="1">
+						<![CDATA[vp_0]]>
+					</refmedia>
+				</viewpoint>
+				<refItem ref="2e626e0"/>
+				<refItem ref="2e62740"/>
+				<refItem ref="2e627a0"/>
+				<refItem ref="2e62800"/>
+				<refItem ref="2e62860"/>
+				<refItem ref="2e628c0"/>
+				<refItem ref="2e62920"/>
+				<refItem ref="2e629e0"/>
+				<refItem ref="2e62aa0"/>
+				<refItem ref="2ebe430"/>
+				<refItem ref="2ebe730"/>
+				<refItem ref="2ebe790"/>
+				<refItem ref="2ebe7f0"/>
+				<refItem ref="2ebe850"/>
+				<refItem ref="2ebe8b0"/>
+				<refItem ref="2ebe910"/>
+				<refItem ref="2ebe970"/>
+				<refItem ref="2ebeaf0"/>
+				<refItem ref="2ebeb50"/>
+				<refItem ref="2ebebb0"/>
+				<refItem ref="2ebec70"/>
+				<refItem ref="2ebed30"/>
+				<refItem ref="2ebed90"/>
+				<refItem ref="2ebefd0"/>
+				<refItem ref="2f12a30"/>
+				<refItem ref="2f12a90"/>
+				<refItem ref="2f12af0"/>
+				<refItem ref="2f12c10"/>
+				<refItem ref="2f12c70"/>
+				<refItem ref="2f130f0"/>
+				<refItem ref="2f131b0"/>
+				<refItem ref="2f13210"/>
+				<refItem ref="2f13390"/>
+				<refItem ref="2f134b0"/>
+				<refItem ref="2f136f0"/>
+				<metadata/>
+				<refmedia ref="1"/>
+				<refmedia ref="2f2e030"/>
+			</view>
+		</views>
+	</figure>
+	<parts>
+		<part id="2eb0e30">
+			<metadata>
+				<value id="2e9db40" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[458781]]>
+				</value>
+				<value id="2e9d360" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil cover]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2eb12f0">
+			<metadata>
+				<value id="2e9cc10" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[785643]]>
+				</value>
+				<value id="2e9cdc0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Motor Shaft ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2e7a0f0">
+			<metadata>
+				<value id="2e9e050" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[328641]]>
+				</value>
+				<value id="2e9e0e0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Bearing -1]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2eabd10">
+			<metadata>
+				<value id="2e9d000" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[328641(2)]]>
+				</value>
+				<value id="2e9d120" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Bearing -2]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2d593a0">
+			<metadata>
+				<value id="2e9e170" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[438657]]>
+				</value>
+				<value id="2e9d240" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Motor Cap]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2e79eb0">
+			<metadata>
+				<value id="2e9d3f0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[438657(2)]]>
+				</value>
+				<value id="2e99730" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Motor Cap]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27c60">
+			<metadata>
+				<value id="2e99e80" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[329647]]>
+				</value>
+				<value id="2e9aae0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Rotor ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27260">
+			<metadata>
+				<value id="2e99d60" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[265981]]>
+				</value>
+				<value id="2e9a300" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil insert 1]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27160">
+			<metadata>
+				<value id="2e9ab70" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[265981(2)]]>
+				</value>
+				<value id="2e9a270" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil insert 2]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27020">
+			<metadata>
+				<value id="2e99df0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[554332]]>
+				</value>
+				<value id="2e9a1e0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f271a0">
+			<metadata>
+				<value id="2e9adb0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[554332(2)]]>
+				</value>
+				<value id="2e9ae40" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27ce0">
+			<metadata>
+				<value id="2e9af60" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[554332(3)]]>
+				</value>
+				<value id="2e99190" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f26ee0">
+			<metadata>
+				<value id="2e9aff0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[554332(4)]]>
+				</value>
+				<value id="2eb80e0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f271e0">
+			<metadata>
+				<value id="2eb88c0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[554332(5)]]>
+				</value>
+				<value id="2eb8170" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27120">
+			<metadata>
+				<value id="2eb89e0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[554332(6)]]>
+				</value>
+				<value id="2eb8290" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f26f20">
+			<metadata>
+				<value id="2eb8950" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[554332(7)]]>
+				</value>
+				<value id="2eb7fc0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27a60">
+			<metadata>
+				<value id="2eb8440" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[554332(8)]]>
+				</value>
+				<value id="2eb8050" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27820">
+			<metadata>
+				<value id="2eb84d0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[431167]]>
+				</value>
+				<value id="2e61ca0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Washer ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27860">
+			<metadata>
+				<value id="2e61670" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[431167(2)]]>
+				</value>
+				<value id="2e621b0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Washer ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f272e0">
+			<metadata>
+				<value id="2e61820" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[563289]]>
+				</value>
+				<value id="2e61e50" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Coil Assembly ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27320">
+			<metadata>
+				<value id="2e61ee0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[445689]]>
+				</value>
+				<value id="2e81cb0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[Plain washer ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f274a0">
+			<metadata>
+				<value id="2e80360" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[112658]]>
+				</value>
+				<value id="2ec8130" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[nut]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f275a0">
+			<metadata>
+				<value id="2e91b70" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[556881]]>
+				</value>
+				<value id="2f29550" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[bolt]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f276e0">
+			<metadata>
+				<value id="2f29040" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[152487]]>
+				</value>
+				<value id="2f2a2d0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[coil inner wall ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27a20">
+			<metadata>
+				<value id="2f2a360" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[556898]]>
+				</value>
+				<value id="2f29280" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[magnetic shaft ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f278e0">
+			<metadata>
+				<value id="2f2a3f0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[556987]]>
+				</value>
+				<value id="2f29790" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[liner ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f27be0">
+			<metadata>
+				<value id="2f28e00" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[669845]]>
+				</value>
+				<value id="2f2a240" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[magnetic coil]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f2bd10">
+			<metadata>
+				<value id="2f29dc0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[144658]]>
+				</value>
+				<value id="2f29700" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[ball bearing ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f2b050">
+			<metadata>
+				<value id="2f293a0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[144658(2)]]>
+				</value>
+				<value id="2f2a870" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[ball bearing ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f2bb10">
+			<metadata>
+				<value id="2f2a510" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[144658(3)]]>
+				</value>
+				<value id="2f29f70" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[ball bearing]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f2b1d0">
+			<metadata>
+				<value id="2f29310" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[222658]]>
+				</value>
+				<value id="2f29e50" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[MS 32-Flat]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f2b5d0">
+			<metadata>
+				<value id="2f29ee0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[265984]]>
+				</value>
+				<value id="2f28e90" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[MS 28- rivet ]]>
+				</value>
+			</metadata>
+		</part>
+		<part id="2f2b890">
+			<metadata>
+				<value id="2f298b0" name="PARTNUMBER" decl-id="PNR" changed="0" role="1">
+					<![CDATA[226584]]>
+				</value>
+				<value id="2f299d0" name="Description" decl-id="DFP" changed="0" role="2">
+					<![CDATA[MS 24- Plain]]>
+				</value>
+			</metadata>
+		</part>
+	</parts>
+	<reftables>
+		<reftable name="INDENT">
+			<value descr="">
+				<![CDATA[1]]>
+			</value>
+			<value descr=".">
+				<![CDATA[2]]>
+			</value>
+			<value descr="..">
+				<![CDATA[3]]>
+			</value>
+			<value descr="...">
+				<![CDATA[4]]>
+			</value>
+			<value descr="....">
+				<![CDATA[5]]>
+			</value>
+			<value descr=".....">
+				<![CDATA[6]]>
+			</value>
+			<value descr="......">
+				<![CDATA[7]]>
+			</value>
+			<value descr=".......">
+				<![CDATA[8]]>
+			</value>
+			<value descr="........">
+				<![CDATA[9]]>
+			</value>
+		</reftable>
+	</reftables>
+</ipc>

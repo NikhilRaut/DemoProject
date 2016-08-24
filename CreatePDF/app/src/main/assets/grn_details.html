@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Gladminds Connect Platform</title>
+    <style>
+        .kbw-signature 
+        { 
+            width: 150px; height: 55px; 
+        }  
+    </style>
+    <!-- PACE LOAD BAR PLUGIN - This creates the subtle load bar effect at the top of the page. -->
+    <link href="css/plugins/pace/pace.css" rel="stylesheet">
+    <script src="js/plugins/pace/pace.js"></script>
+
+    <!-- GLOBAL STYLES - Include these on every page. -->
+    <link href="css/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/plugins/datatables/datatables.css" rel="stylesheet">
+    <link href="css/plugins/jqueryui/jquery-ui.css" rel="stylesheet">
+    <link href="css/jquery.signaturepad.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/plugins/zoom.css">
+    <link href="icons/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/prism.css">
+    <link rel="stylesheet" href="css/chosen.css">
+    <!-- THEME STYLES - Include these on every page. -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style_autosearch.css" rel="stylesheet">
+    <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/header.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/breadcrumb.css">
+    <link rel="stylesheet" type="text/css" href="css/plugins/datepicker.css">
+    <link rel="stylesheet" type="text/css" href="css/plugins/jquery.timepicker.min.css">
+    <link href="css/PnE.css" rel="stylesheet">
+    
+    <!--<script type="text/javascript" src="js/underscore-min.js"></script>-->
+    <script type="text/javascript" src="js/underscore.js"></script>
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/template" id="chassisSearchTemplate">
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+                <div class="modal-header chassisListHeader">
+                    <button type="button" class="close chassisListClose" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Select Chassis #</h4>
+                </div>
+
+                <div class="modal-body clearfix">
+                    <div class="clearfix">
+                        <table class="text-left table table-striped table-bordered table-hover">
+                            <thead></thead>
+                            <tbody>
+
+                                <% for(var i=0; i<length; i++) {%>
+                                    <tr>
+                                        <td id="td100<%= i %>"><%= resultData[i] %></td>
+                                        <td><input type="checkbox" id="select<%= resultData[i] %>" name="select_for_chessisno[]" class="select_for_chessisno"/></td>
+                                    </tr>
+                               <% }; %>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="modal-footer truckLayout_actionBlk">
+                    <button type="button" class="btn add_employee_saveBtn actAddEmployee deleteChassisDetail" data-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn groupChassis">Ok</button>
+                </div>
+            </div>
+        </div>
+    </script>
+
+    <script type="text/template" id="chassisTemplate">
+        <div id= "abct<%= chassisno%>" class="panel-group accordion chassisTemplateStyle">
+            <div class="panel panel-default">
+                <div class="panel-heading col-lg-12 col-xs-12 chassis_block" id="ay<%= chassisno%>">
+                    <div class="col-lg-8 col-sm-8 col-xs-8">
+                        <h4 class="panel-title">
+                            <a class="chassisBlockDetail"><%= chassisno %></a>
+                            <!-- 
+                            <a data-toggle="collapse" id="t<%= chassisno%>" data-parent=".accordion" class="acc_parent_block" href="#collapse<%= chassisno%>"><%= chassisno %></a>
+                            -->
+                        </h4>
+                        <div id="cnt<%= chassisno%>" class="info"></div>
+                    </div>
+                    <div class="col-lg-2 col-sm-2 col-xs-2">
+                        <img src="img/delete.png" id="t<%= chassisno %>" class="remove_chassis"/>
+                    </div> 
+                    <div class="col-lg-2 col-sm-2 col-xs-2" style="text-align:right">
+                        <a data-toggle="collapse" id="t<%= chassisno%>" data-parent=".accordion" class="acc_parent_block" href="#collapse<%= chassisno%>"><img src="img/down-arrow.png" class="downArrowImg" /><img src="img/up-arrow.png" class="upArrowImg" style="display:none;"/></a>
+                    </div>    
+                </div>
+                <div id="collapse<%= chassisno %>" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <div class="clearfix">
+                        </div>
+                        <div class="damage_detail clearfix">
+                            <!-- 
+                            <div class='button'><input id="<%= chassisno %>" type="button" class="remove_all btn btn-warning" value="Remove All"/>
+                            </div>
+                            -->
+                            <div id="1234truckLayout<%= chassisno %>" class="locationDetail" style="display:none !important;"><p class="damageLocationText" style="background-color: rgb(238, 241, 238);">Damage Location</p><img src="img/Damage Location.png" class=" getChassisLabel truckLayoutTable" data-toggle="modal" id="truckLayout<%= chassisno %>" data-target="#damageLocation"/>
+                            </div>
+                            <div class="tableDetail">
+                                <div id="tableCreate<%= chassisno %>" class="damageShortageDetail">
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-sm-12 col-xs-12 add_buttons">
+                                <input type="button" id="damageBtn_<%= chassisno %>" class="btn damage_btn" value="Add Damage"/>
+                                <input type="button" id="shortageBtn_<%= chassisno %>" class="btn shortage_btn" value="Add Shortage"/>
+                            </div>
+                            
+                        </div>
+                    </div>   
+                </div>
+            </div>         
+        </div>  
+  
+    </script>
+    <script type="text/template" id="damageDetailTemplate">
+        <h4>Damage Details</h4>
+        <table class="invoiceTableTemp table table-striped table-bordered table-hover">
+            <thead class="invoiceTable">
+                <th>S.N</th>
+                <th>Chassis No</th>
+                <th>Damage Part</th>
+                <th>Damage Type</th>
+                
+                <th>Cause</th>
+                <th>Location</th>
+            </thead>
+            <tbody>
+                <% for(var i=0; i<length; i++) {%>
+                    <% if(resultData.item(i).type=="damage") {%>
+                        <tr>
+                            <td><%= i+1 %></td>
+                            <td><%= resultData.item(i).chassisno %></td>
+                            <td><%= resultData.item(i).damage_detail %></td>
+                            <td><%= resultData.item(i).damage_type %></td>
+                            <td><%= resultData.item(i).damage_cause %></td>
+                            <td><%= resultData.item(i).damage_location %></td>
+                        </tr>
+                    <% }; %>   
+                <% }; %>
+                
+            </tbody>
+        </table>
+    </script>
+
+    <script type="text/template" id="shortageDetailTemplate">
+        <h4>Shortage Details</h4>
+            <table class="invoiceTableTemp table table-striped table-bordered table-hover">
+            <thead class="invoiceTable">
+                <th>S.N</th>
+                <th>shortage brand variant</th>
+                <th>Shortage Qty</th>
+            </thead>
+            <tbody>
+                <% for(var i=0; i<length; i++) {%>
+                    <% if(resultData.item(i).type=="shortage") {%>
+                        <tr>
+                            <td><%= i+1 %></td>
+                            <td><%= resultData.item(i).shortage_brand_variant %></td>
+                            <td><%= resultData.item(i).quantity %></td>
+                        </tr>
+                    <% }; %>
+                <% }; %>
+            </tbody>
+        </table>
+    </script>
+    <script type="text/template" id="truckLayoutTemplate">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close deleteDamageLocation" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Damage Location in Truck</h4>
+                </div>
+                <div class="modal-body clearfix">
+                    <div class="clearfix">
+                        <ul class="donate-now">
+                            <li>
+                                <input type="radio" id="upperDeck" name="amount" checked="checked"/>
+                                <label for="upperDeck">Upper Deck</label>
+                            </li>
+                            <li>
+                                <input type="radio" id="lowerDeck" name="amount" />
+                                <label for="lowerDeck">Lower Deck</label>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div id ="addTable">
+                        <table class="text-center invoiceTableTemp table table-striped table-bordered table-hover">
+                            <thead class="">
+                                <th colspan="5" class="text-right">Driver</th>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td></td>
+                                    <% for(var i=1; i<=truckLayoutData.column; i++) {%>
+                                    <td>C<%= i %></td>
+                                    <% }; %>
+                                </tr>
+                      
+                                <% for(var j=1; j<=truckLayoutData.row; j++) {%>
+                                <tr>   
+                                    <td>R<%= j %></td>  
+                                    <% for(var l=1; l<=truckLayoutData.column; l++) {%>
+                                     
+                                    <td><input type="radio" id="R<%= j %>C<%= l %>" name="select_for_damage_location[]" class="select_for_damage_location"/></td>
+                                    <% }; %>
+
+                                 </tr>
+                                <% }; %>
+                                
+                                <tr>
+                                    <td></td>
+                                    <td colspan="4">Rear side of truck</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                
+                </div>
+                <div class="modal-footer truckLayout_actionBlk">
+                    <button type="button" class="btn add_employee_saveBtn actAddEmployee deleteDamageLocation" data-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn actAddEmployee addDamageLocation">Ok</button>
+                </div>
+            </div>
+
+        </div>
+    </script>
+    <script type="text/template" id="lowerDeckLayoutTemplate">
+        <table class="text-center invoiceTableTemp table table-striped table-bordered table-hover">
+            <thead class="">
+                <th colspan="5" class="text-right">Driver</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td></td>
+                    <% for(var i=1; i<=truckLayoutData.column; i++) {%>
+                    <td>C<%= i %></td>
+                    <% }; %>
+                </tr>
+      
+                <% for(var j=truckLayoutData.row+1; j<=length; j++) {%>
+                <tr>   
+                    <td>R<%= j %></td>  
+                    <% for(var l=1; l<=truckLayoutData.column; l++) {%>
+                     
+                    <td><input type="radio" id="R<%= j %>C<%= l %>" name="select_for_damage_location[]" class="select_for_damage_location"/></td>
+                    <% }; %>
+
+                 </tr>
+                <% }; %>
+                
+                <tr>
+                    <td></td>
+                    <td colspan="4">Rear side of truck</td>
+                </tr>
+            </tbody>
+        </table>
+    </script>
+    <script type="text/template" id="upperDeckLayoutTemplate">
+        <table class="text-center invoiceTableTemp table table-striped table-bordered table-hover">
+            <thead class="">
+                <th colspan="5" class="text-right">Driver</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td></td>
+                    <% for(var i=1; i<=truckLayoutData.column; i++) {%>
+                    <td>C<%= i %></td>
+                    <% }; %>
+                </tr>
+      
+                <% for(var j=1; j<=truckLayoutData.row; j++) {%>
+                <tr>   
+                    <td>R<%= j %></td>  
+                    <% for(var l=1; l<=truckLayoutData.column; l++) {%>
+                     
+                    <td><input type="radio" id="R<%= j %>C<%= l %>" name="select_for_damage_location[]" class="select_for_damage_location"/></td>
+                    <% }; %>
+
+                 </tr>
+                <% }; %>
+                
+                <tr>
+                    <td></td>
+                    <td colspan="4">Rear side of truck</td>
+                </tr>
+            </tbody>
+        </table>
+    </script>
+    <style type="text/css">
+        body {
+            background: rgb(239, 236, 236) !important;
+        }
+        .nav-tabs, .nav-pills {
+           margin-bottom: 10px !important;
+        }
+
+        .page-content-ease-in {
+            background: none;
+        }
+        .signOutIcon {
+            margin-top: 8px;
+        }
+    </style>
+    <style>
+        .dam_delete_row:hover, .short_delete_row:hover { cursor:pointer; }
+
+        .panel-collapse .panel-body, .damage_details,
+        #table tbody td, .attchmentBlock  {
+            background:#F5f5f5;
+        }
+        .button { margin-bottom: 11px; } 
+        #cnt{
+            font-size:14px;
+            font-style:italic;
+        }
+    </style>
+    <script type="text/template" id="grnDetailTemplate">
+     <button class="display-none openChassisTable" data-toggle="modal" data-target="#selectChassis">open Chassis</button>
+
+    </script>
+        
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <!-- <div class="json-header"></div> -->
+        <div id="page-wrapper" style="background: rgb(239, 236, 236);">
+            <div class="page-content">
+                <div class="row">
+                    <div class="col-md-12 menu-page-mob padding-zero">
+                        <div id="breadcrumb"></div>
+                        
+                        <div class="col-md-12 col-sm-12 col-xs-12 padding-zero">
+                            
+
+                        <div class="">
+                            <div class="portlet-heading">
+                                <div class="portlet-title">
+                                    <i class="fa fa-arrow-left go_back_arrow">&nbsp;</i><img src="img/Bajaj_Logo.png" class="img-responsive bajaj_header_logo">
+                                      <a class="logout_open" href="#"> <i class="fa fa-power-off signOutIcon pull-right"></i></a>
+                                    
+
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            
+                            <ul id="myTab" class="nav nav-tabs grnTab">
+                                <li class="active grn_details_tab details_1"><a id="grnId" style="width:100%;" href="#home" data-toggle="tab">GRN Details</a>
+                                </li>
+                               <!--  <li class="grn_details_tab details_2"><a href="#profile" data-toggle="tab">Damage/Shortage</a> -->
+                                <li class="grn_details_tab details_2"><a id="chassisProfileId" style="width:100%;" data-toggle="tab">Damage/Shortage</a>
+                                </li>
+                               <!--  <li class="grn_details_tab details_3"><a href="#report" id="reportVerify" data-toggle="tab">Report</a> -->
+                                <li class="grn_details_tab details_3"><a id="reportVerify" style="width:100%;" data-toggle="tab">Report</a>
+                                </li>
+                            </ul>
+                            <div id="myTabContent" class="tab-content myTabContentClass">
+                                <div class="tab-pane fade active in " id="home">
+                                    <div class="grnBasicDetailArea clearfix">
+                                        <div class="grn_detail_block clearfix col-md-12 col-sm-12 col-xs-12 padding-zero">
+                                            <h5>Reporting / Unloading Time</h5>
+                                        </div>
+                                        <div class="clearfix reportingDateTimeArea">
+                                            <div>
+                                                <input type="text" id="datepicker3" class="reporting_date sandbox-container" placeholder="Reporting Date" value="" />
+                                            </div>
+                                            <!--  <input type="text" id="reportingTime" class="reporting_time" placeholder="Time"/> -->
+                                            <div class="pull-right">
+                                               <span>Hr:</span>
+                                               <select name="reportingHour" id="reportingHour" style="width:50px;">
+                                                    <option>01</option>
+                                                    <option>02</option>
+                                                    <option>03</option>
+                                                    <option>04</option>
+                                                    <option>05</option>
+                                                    <option>06</option>
+                                                    <option>07</option>
+                                                    <option>08</option>
+                                                    <option>09</option>
+                                                    <option>10</option>
+                                                    <option>11</option>
+                                                    <option>12</option>
+                                               </select>
+                                               <span>Min:</span>
+                                               <select name="reportingMinute" id="reportingMinute" style="width:50px;">
+                                                    <option>00</option>
+                                                    <option>15</option>
+                                                    <option>30</option>
+                                                    <option>45</option>
+                                               </select>
+                                               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                               <select name="reportingFormat" id="reportingFormat" style="width:50px;">
+                                                    <option>AM</option>
+                                                    <option>PM</option>
+                                               </select>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="text-left alert alert-danger" id="alertMesage"></div> -->
+                                        <div class="clearfix uploadDateTimeArea">
+                                        <div>
+                                            <input type="text" id="datepicker4" class="reporting_date sandbox-container" placeholder="Unloading Date" />
+                                        </div>
+                                        <div class="pull-right">
+                                           <span>Hr:</span>
+                                           <select name="uploadingHour" id="uploadingHour" style="width:50px;">
+                                                <option>01</option>
+                                                <option>02</option>
+                                                <option>03</option>
+                                                <option>04</option>
+                                                <option>05</option>
+                                                <option>06</option>
+                                                <option>07</option>
+                                                <option>08</option>
+                                                <option>09</option>
+                                                <option>10</option>
+                                                <option>11</option>
+                                                <option>12</option>
+                                           </select>
+                                           <span>Min:</span>
+                                           <select name="uploadingMinute" id="uploadingMinute" style="width:50px;">
+                                                <option>00</option>
+                                                <option>15</option>
+                                                <option>30</option>
+                                                <option>45</option>
+                                           </select>
+                                           <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                           <select name="uploadingFormat" id="uploadingFormat" style="width:50px;">
+                                                <option>AM</option>
+                                                <option>PM</option>
+                                           </select>
+                                        </div>
+                                            <!-- <input type="text" id="uploadingTime" class="reporting_time" placeholder="Time" value=""/> -->
+
+                                        </div>
+                                        <h5 class="seactionBrk">Delivery</h5>
+                                        <select class="damageReason" name="reason" id="reason">
+                                            <!--  <option>With Accident delivery</option> -->
+                                            <!--  <option>Manual mistake</option> -->
+                                            <!-- <option>Others</option> -->
+                                            <option>Normal delivery</option>
+                                            <option>Accident</option>
+                                        </select>
+                                        <h5 class="seactionBrk" id="NumberofDelay"></h5>
+                                        
+                                        <h5 class="seactionBrk">Reason for delay</h5>
+                                        <select class="damageReason" name="reasonForDelay" id="reasonForDelay">
+                                            <option>Select reason for delay</option>
+                                        </select>
+                                        
+                                        <div class="grnDetailattchmentBlock">
+                                            <h5 class="AttachmentofVehical"><!-- Attachments <span class="font-10">Vehicle Level</span> -->Upload Photos of Trucks<i class="fa fa-2x fa-camera getChassisLabel plusStyle"></i></i></h5>
+                                           <!--  <img style="display:none;width:60px;height:60px;" id="showVehicalImage" src="" /> -->
+                                            
+                                        </div>
+
+                                        <div class="selectChoice">
+                                            <div class="col-lg-12 col-sm-12 col-xs-12 chassisOption" >
+                                                <div class="selectbutton">
+                                                    <input type="radio" name="shortage_damage" value="damageShortage" id="radioButton1"  class="selectChoiceOfChassis">
+                                                </div> 
+                                                <div class="selectbutton">Add Shortage/Damage</div>
+                                            </div>
+                                            <div class="col-lg-12 col-sm-12 col-xs-12 chassisOption">
+                                                <div class="selectbutton2">
+                                                    <input type="radio" name="shortage_damage" value="nodamageShortage" id="radioButton2" class="selectChoiceOfChassis">
+                                                </div>
+                                                <div class="selectbutton2">No Damage/Shortage</div>
+                                            </div>    
+                                        </div>
+
+                                        </div>
+                                    <!-- <div class="text-center"><a href="#profile" id ="grndetail" data-toggle="tab" class="grnDetailsNext">Next</a></div> -->
+                                    <div class="text-center"><a id ="grndetail" data-toggle="tab" class="grnDetailsNext">Next</a></div>
+                                </div>
+                                <div class="tab-pane fade" id="profile">
+
+                                    <div class="chassisBlock">
+                                    <div class="pos-fixed">
+                                        <h4 class="chassis_heading">Get Chassis Number</h4>
+                                        <!-- old -->
+                                        <!-- <img src="img/right-arrow.png" id="chassisArrow"/> -->
+                                        <div class="getChassisNumber clearfix">
+                                            <div class="col-md-8 col-sm-8 col-xs-8" id="searchChassisInput">
+                                               <!--  <input type="text" id="chassisNumber" name="chassisNumber" class="col-md-9 col-sm-9 col-xs-9 searchChassis"/> -->
+                                                <input type="text" id="chassisNumber" name="chassisNumber" class="searchChassis"/>
+                                            </div>
+                                            
+                                            <!-- <label class="getChassisLabel">Search</label> -->
+                                             <div class="col-md-2 col-sm-8 col-xs-2" id="searchChassisIcon">
+                                                  <!-- <i class="fa fa-plus plusStyle" id="chassisId"></i> -->
+                                                  <img src="img/Search.png" id="chassisId" /></i>
+                                             </div>
+                                           
+                                            <!-- <label class="getChassisLabel">Scan</label> -->
+                                            <div class="col-md-2 col-sm-2 col-xs-2" id="scanChassisIcon">
+                                                <!-- <i class="fa fa-qrcode fa-2x topcoat-button" id="scan"></i> -->
+                                                <img src="img/Scan.png" class="topcoat-button" id="scan"/>
+                                            </div>
+                                           
+                                        </div>
+                                        </div>
+                                        <div class="chassisPosition">
+                                            <div class="accordian_parent clearfix" id="chassisDetail">
+       
+                                            </div><!-- chassisDetail-->
+
+                                            <div  class="col-lg-12 col-sm-12 col-xs-12">
+                                                <!-- <div class="col-md-6 col-sm-6 col-xs-6 padding-zero text-center" id="button-Previous-inside-chassis-tab"><a class="chassisPrevious" href="#home" data-toggle="tab">Previous</a></div> -->
+                                                <!-- <div class="col-md-6 col-sm-6 col-xs-6 padding-zero text-center" id="button-Next-inside-chassis-tab"> -->
+                                            
+                                                <a class="col-lg-6 col-sm-6 col-xs-6 showAllChassis" style="display:none;"/>ShowAllChassis</a>
+                                                <a class="grnDetailsreport col-lg-6 col-sm-6 col-xs-6" id="chassisProfileDetail" data-toggle="tab">Next</a>
+                                                <!-- </div> -->
+                                            </div>
+                                            <div><a class="grnDetailsreport2" style="display:none;"></a></div>
+                                        </div>
+                                    </div><!-- End of chassis Block-->
+                                </div>
+                                <div class="tab-pane fade" id="report">
+                                    <div class="grnBlock" id="dealerDetail">
+                                    </div>
+
+                                    <div id ="invoiceDetail" class="col-md-12 col-sm-12 col-xs-12 padding-zero invoiceSummeryBlock">
+                                    </div>
+
+                                    <div id="damageDetail" style="display:none;" class="col-md-12 col-sm-12 col-xs-12 padding-zero invoiceSummeryBlock">
+                                    </div>
+
+                                    <div id="shortageDetail" style="display:none;" class="col-md-12 col-sm-12 col-xs-12 padding-zero invoiceSummeryBlock">
+                                    </div>
+
+                                    <div class="col-md-12 col-sm-12 col-xs-12 padding-zero invoiceSummeryBlock">
+                                        <!-- <h4>Driver Details</h4> -->
+                                        <div class="col-md-6 col-sm-6 col-xs-12 padding-zero">
+                                            <p class="driverSummery driverHeading"><h4>Driver Details</h4>
+                                            <div id="driverDetail">
+                                            </div>
+                                            </p>
+                                        </div>
+                                        <div class="col-md-6 col-sm-12 col-xs-12 padding-zero">
+                                            <div class="col-xs-4 col-sm-4">
+                                                <div class="driver_pic">
+                                                    <h5 class="getPicture"><i class="fa fa-2x fa-camera getChassisLabel plusStyle"></i></h5>
+                                                    <!-- <img style="display:none;width:100px;height:100px;" id="driverImage" src="" /> -->
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-8 col-sm-8">
+                                                <input type="text" id="driverName" name="driverName" placeholder="Enter driver name"/>
+                                                <label>Driver Signature</label>
+                                                <div class="sigPad">
+
+                                                    <div class="sig sigWrapper">
+                                                       
+                                                        <canvas id="canvasId1" class="pad" width="180" height="150"></canvas>
+                                                        <input type="hidden" id="signatureofDriver" name="output" class="output" value="">
+                                                    </div>
+                                                    <ul class="sigNav">
+                                                        
+                                                        <li class="clearButton"><a href="#clear" id="clear1"><h4>Clear<h4></a></li>
+                                                    </ul>
+                                                   <!--  <button type="submit">Save</button> -->
+                                                </div>
+                                            </div> 
+
+                                          <!--   </div> -->
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12 col-sm-12 col-xs-12 padding-zero invoiceSummeryBlock">
+                                        <div class="col-md-6 col-sm-6 col-xs-6 padding-zero">
+                                            <h4>PDI Manager Signature</h4>
+                                            <!-- <div class="pdiManagerSignArea"></div> -->
+                                            <div class="sigPad">
+                                                    <!-- <p class="drawItDesc">Draw your signature</p> -->
+                                                   
+                                                    <div class="sig sigWrapper">
+                                                       <!--  <div class="typed"></div> -->
+                                                        <canvas id="canvasId2" class="pad" width="180" height="150"></canvas>
+                                                        <input type="hidden" id="managerSignature" name="output" class="output" value="">
+                                                    </div>
+                                                     <ul class="sigNav">
+                                                        <!-- <li class="drawIt"><a href="#draw-it">Draw It</a></li> -->
+                                                        <li class="clearButton"><a href="#clear" id="clear2"><h4>Clear<h4></a></li>
+                                                    </ul>
+                                                   <!--  <button type="submit">Save</button> -->
+                                            </div>  
+                                        </div>
+                                        <div class="col-md-6 col-sm-6 col-xs-6 padding-zero text-center">
+                                            <div class="sigPad" style="display:none;">
+                                               
+                                               
+                                                <div class="sig sigWrapper">
+                                                   
+                                                    <canvas id="canvasId1" class="pad" width="1px" height="1px"></canvas>
+                                                    <input type="hidden" name="output" class="output" value="">
+                                                </div>
+                                                <ul class="sigNav">
+                                                    
+                                                    <li class="clearButton"><a href="#clear" id="clear1"><h4>Clear<h4></a></li>
+                                                </ul>
+                                               <!--  <button type="submit">Save</button> -->
+                                            </div>  
+                                            <!-- <button class="sendGRNbutton grnActionButton saveSync" style="display:none;">Send GRN</button> -->
+                                            <button class="sendGRNbutton grnActionButton saveSync">Send GRN</button>
+                                            <button class="printButton grnActionButton" id="create_pdf" style="display:none;">Print</button>
+                                            <button id="makePdf" style="display:none;"></button>
+                                            <div style="display:none"><img id="logo" src="img/logo.png"></div>
+                                        </div>
+                                    </div>
+
+                                </div><!-- End of Report -->
+                            </div>
+                            
+                        </div>
+                        <!-- /.portlet -->
+                        </div>
+                            
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+    </div>
+    <footer class="bajaj-footer"></footer>
+    <button class="display-none openChassisTable" data-toggle="modal" data-target="#selectChassis">open Chassis</button>
+
+    <!--<script src="js/jquery.min.js"></script> -->
+    <script type="text/javascript" src="js/search/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript" src="js/plugins/velocity.min.js"></script>
+    <script type="text/javascript" src="js/plugins/enhance.js"></script>
+    <script type="text/javascript" src="js/search/jquery.mockjax.js"></script>
+    <script type="text/javascript" src="js/search/jquery.autocomplete.js"></script>
+    <script type="text/javascript" src="js/search/countries.js"></script>
+    <script type="text/javascript" src="js/search/shortages.js"></script>
+    <!--<script type="text/javascript" src="js/search/demo.js"></script>-->
+    <!--<script type="text/javascript" src="js/plugins/jspdf.min.js"></script> -->
+    <script type="text/javascript" src="js/plugins/jspdf.debug.js"></script>
+    <script type="text/javascript" src="js/plugins/jspdf.plugin.autotable.js"></script>
+    <script type="text/javascript" src="js/plugins/html2canvas.min.js"></script>
+    
+    <!--   <script src="js/plugins/magnify.cur"></script> -->
+    <script src="js/chosen.js" type="text/javascript"></script>
+    <script src="js/plugins/prism.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/jquery.signaturepad.min.js"></script>
+    <script src="css/json2.min.js"></script>
+    <!--<script src="js/jquery-ui.js"></script> -->
+   
+    
+    <script src="js/plugins/jquery.timepicker.min.js"></script>
+    <script type="text/javascript" src="js/inc.js"></script>
+
+    <script src="js/plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+    <!-- <script type="text/javascript" src="js/plugins/jquery.magnifier.js"></script> -->
+     
+    <script src="js/plugins/popupoverlay/jquery.popupoverlay.js"></script>
+    <script src="js/plugins/popupoverlay/defaults.js"></script>
+    <!--BOOTSTRAP DATE PICKER SCRIPT-->
+    <script src="js/plugins/bootstrap-datepicker/bootstrap-datepicker.js"></script>
+    <div id="logout">
+        <div class="logout-message">
+            <div class="logout-user-profile-img">
+            </div>
+            <h4 class="logout-username">
+                TICL_Dealer
+            </h4>
+            <p class="logoutMessage">Select "Logout" below if you are ready<br> to end your current session.</p>
+            <ul class="list-inline">
+                <li>
+                    <a class="btn btn-green" onclick="logout_user();">
+                        <strong>Logout</strong>
+                    </a>
+                </li>
+                <li>
+                    <button class="logout_close btn btn-green">Cancel</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="modal fade" id="remove-window" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="logout-modal-img">
+                    <h4 class="modal-title" id="myModalLabel"> Are you sure you want to remove all data</h4>
+                </div>
+                <div class="modal-footer confirm-log-btns">
+                   <button type="button" id="yes" class="btn btn-success">Yes</button>
+                   <button type="button" id="no" class="btn btn-success" data-dismiss="modal">No</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Remove Damage details -->
+
+    <div class="modal fade" id="remove-window-damage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="logout-modal-img" >
+                    <h4 class="modal-title" id="myModalLabel"> Are you sure you want to remove damage detail?</h4>
+                </div>
+                <div class="modal-footer confirm-log-btns delete-damage-detail">
+                   <!-- <button type="button" id="yes" class="btn btn-success">Yes</button>
+                   <button type="button" id="no" class="btn btn-success" data-dismiss="modal">No</button> -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Remove Shortage details -->
+
+    <div class="modal fade" id="remove-window-shortage" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="logout-modal-img">
+                    <h4 class="modal-title" id="myModalLabel"> Are you sure you want to remove shortage detail?</h4>
+                </div>
+                <div class="modal-footer confirm-log-btns delete-shortage-detail">
+                   <!-- <button type="button" id="yes" class="btn btn-success">Yes</button>
+                   <button type="button" id="no" class="btn btn-success" data-dismiss="modal">No</button> -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal image size large -->
+    <div class="modal fade" id="popup-window" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body" id="imagepopup">
+                
+               
+          </div>
+          <div class="modal-footer confirm-log-btns">
+           
+            <button type="button" style="width:100%" class="btn logout-window-btns" data-dismiss="modal">OK</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+     <!-- Modal image delete popup -->
+     <div class="modal fade" id="popup-window-image" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+          <!-- <div class="modal-body" id="imagepopup">
+                
+               
+          </div>
+          <div class="modal-footer confirm-log-btns">
+           
+            <button type="button" style="width:100%" class="btn logout-window-btns" data-dismiss="modal">OK</button>
+          </div> -->
+            <div class="modal-body" id="logout-modal-img">
+                <h4 class="modal-title" id="myModalLabel"> Are you sure to delete the image</h4>
+            </div>
+             <div class="modal-footer confirm-log-btns deletebutton">
+                  <!--  <button type="button" id="yes_grn" class="btn btn-success">Yes</button>
+                   <button type="button" id="no_grn" class="btn btn-success" data-dismiss="modal">No</button> -->
+            </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="send-grn" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="logout-modal-img">
+                    <h4 class="modal-title" id="myModalLabel"> Are you sure you want to send GRN</h4>
+                </div>
+                <div class="modal-footer confirm-log-btns">
+                   <button type="button" id="yes_grn" class="btn btn-success">Yes</button>
+                   <button type="button" id="no_grn" class="btn btn-success" data-dismiss="modal">No</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="remove-chassis-window" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="logout-modal-img">
+                    <h4 class="modal-title" id="myModalLabel"> Are you sure you want to remove this bike</h4>
+                </div>
+                <div class="modal-footer confirm-log-btns">
+                    <button type="button" id="rc_yes" class="btn btn-success">Yes</button>
+                    <button type="button" id="rc_no" class="btn btn-success" data-dismiss="modal">No</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="damageLocation" class="modal fade" role="dialog">
+    </div><!-- End of damageLocation-->
+
+    <div id="selectChassis" class="modal fade" role="dialog">
+    </div>
+
+
+
+<footer class="bajaj-footer"><span>All rights reserved by Bajaj Auto Ltd.</span><br><span>Powered by <a href="http://gladminds.co/#products" target="_blank" class="companyUrl">GladMinds Connect Platform</a></span><br><span>0.0.2</span></footer>
+
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/plugins/barcodescanner.js"></script>
+    <script src="js/sqLite.js"></script>
+    <script src="js/flex.js"></script>
+    <script src="js/header.js"></script>
+
+    <script src="js/plugins/popupoverlay/logout.js"></script>
+    <script src="js/plugins/hisrc/hisrc.js"></script>
+    <script type="text/javascript" src="js/mainMenu.js"></script>
+    <script type="text/javascript" src="js/plugins/moment/moment.min.js"></script>
+    <script src="js/plugins/datatables/jquery.dataTables.js"></script>
+
+    <!--PURCHASE ORDER SCRIPT-->
+    <script type="text/javascript" src="js/version.js"></script>
+    <script type="text/javascript" src="js/grn_details.js"></script>
+    <script type="text/javascript" src="js/create_pdf.js"></script>
+    <script type="text/javascript" src="js/sync.js"></script>
+    <!-- -->
+    
+<div id="loading">
+  <div class="txt"></div>
+  <div class="bg"></div>
+</div>
+ <script type="text/javascript">
+ </script>
+</body>
+</html>

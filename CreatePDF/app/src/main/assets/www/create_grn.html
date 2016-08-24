@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Gladminds Connect Platform</title>
+
+    <!-- PACE LOAD BAR PLUGIN - This creates the subtle load bar effect at the top of the page. -->
+    <link href="css/plugins/pace/pace.css" rel="stylesheet">
+    <script src="js/plugins/pace/pace.js"></script>
+
+    <!-- GLOBAL STYLES - Include these on every page. -->
+    <link href="css/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/plugins/datatables/datatables.css" rel="stylesheet">
+    <link href="css/plugins/jqueryui/jquery-ui.css" rel="stylesheet">
+    <link href="icons/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- THEME STYLES - Include these on every page. -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/header.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/breadcrumb.css">
+    <link rel="stylesheet" type="text/css" href="css/plugins/datepicker.css">
+    
+    <!-- CUSTOM CSS - Pne -->
+    <link href="css/PnE.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <style type="text/css">
+        .logoutBlock {
+            height: 40px;
+        }
+        .signOutIcon {
+            margin-top: 10px;
+        }
+    </style>
+    <script type="text/javascript" src="js/underscore.js"></script>
+    <script type="text/template" id="tripSearchTemplate">
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+                <div class="modal-header chassisListHeader">
+                    <button type="button" class="close chassisListClose" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Select Trips #</h4>
+                </div>
+
+                <div class="modal-body clearfix">
+                    <div class="clearfix">
+                        <table class="text-left table table-striped table-bordered table-hover">
+                            <thead></thead>
+                            <tbody>
+                                <tr>
+                                    <td id="td100">1234</td>
+                                    <td><input type="checkbox" id="1" name="select_for_chessisno[]" class="select_for_chessisno"/></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="modal-footer truckLayout_actionBlk">
+                    <button type="button" class="btn add_employee_saveBtn actAddEmployee" data-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn groupChassis" data-dismiss="modal">Ok</button>
+                </div>
+            </div>
+        </div>
+    </script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <!-- <div class="json-header"></div> -->
+        <div id="page-wrapper">
+            <div class="page-content">
+                <div class="row">
+                    <div class="col-md-12 menu-page-mob padding-zero">
+                        <div id="breadcrumb"></div>
+                        
+                        <div class="col-md-12 col-sm-12 col-xs-12 padding-zero">
+                            <div class="text-right logoutBlock">
+                            <img src="img/Bajaj_Logo.png" class="img-responsive bajaj_header_logo">
+                                <a class="logout_open" href="#"> <i class="fa fa-power-off signOutIcon pull-right"></i></a>
+                                <!-- <a class="logoutModel" href="#"> <i class="fa fa-power-off signOutIcon pull-right"></i></a> -->
+                            </div>
+                            
+                                <ul id="myTab" class="nav nav-tabs" role="tablist">
+                                    <li role="presentation" class="active createGrn_OptLIst" id="pendingTrip"><a href="#home" id="pendingTripDetail" role="tab" data-toggle="tab">Pending Trips</a>
+                                    </li>
+                                    <li role="presentation" class="createGrn_OptLIst" id="searchTripDetail"><a id="tripDetailList" href="#profile" role="tab" data-toggle="tab">Search Trips</a>
+                                    </li>
+                                </ul>
+                                <div id="myTabContent" class="tab-content">
+                                    <div role="tabpanel" class="tab-pane fade active in" id="home">
+                                        <div class="col-md-12 col-sm-12 col-xs-12 padding-zero">
+                                            <div class="panel panel-default">
+                                                <div class="panel-body1" id="tabledetail">
+                                                    
+                                                </div>
+                                                                
+                                            </div> 
+                                                                
+                                        </div>
+       
+
+                                    </div>
+                                    <div role="tabpanel" class="tab-pane fade text-center clearfix" id="profile">
+                                        <div class="col-md-12 col-sm-12 col-xs-12 clearfix search_invoice_block">
+                                            <div class="enter_invoice_block"><input type="text" id="tripNumber" placeholder="Trip Number" class="search_invoice col-md-8 col-sm-8 col-xs-10"></div>
+                                            <div class="clearfix">
+                                                <input type="text" placeholder="From Date" class="search_invoice col-md-8 col-sm-8 col-xs-10 sandbox-container tripSearchDatePicker" id="datepicker1">
+                                                <input type="text" placeholder="To Date" class="search_invoice col-md-8 col-sm-8 col-xs-10 sandbox-container tripSearchDatePicker" id="datepicker2">
+                                            </div>
+                                            <button class="seachInvoiceButton" id="searchTrip">Search Trips</button>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            
+                        </div>
+                            
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    </div>
+    <footer class="bajaj-footer"><span>All rights reserved by Bajaj Auto Ltd.</span><br><span>Powered by <a href="//gladminds.co/#products" target="_blank">GladMinds Connect Platform</a></span><br><span>0.0.2</span></footer>
+    <button class="display-none openTripTable" data-toggle="modal" data-target="#selectTrip">open Chassis</button>
+    <div id="selectTrip" class="modal fade" role="dialog">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script type="text/javascript" src="js/inc.js"></script>
+    <script src="js/plugins/jquery.timepicker.min.js"></script>
+    <script src="js/plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+    <script src="js/plugins/popupoverlay/jquery.popupoverlay.js"></script>
+    <script src="js/plugins/popupoverlay/defaults.js"></script>
+    <!--BOOTSTRAP DATE PICKER SCRIPT-->
+    <script src="js/plugins/bootstrap-datepicker/bootstrap-datepicker.js"></script>
+    <div id="logout">
+        <div class="logout-message">
+            <div class="logout-user-profile-img">
+            </div>
+            <h4 class="logout-username">
+                TICL_Dealer
+            </h4>
+            <p>Select "Logout" below if you are ready<br> to end your current session.</p>
+            <ul class="list-inline">
+                <li>
+                    <a class="btn btn-green" onclick="logout_user();">
+                        <strong>Logout</strong>
+                    </a>
+                </li>
+                <li>
+                    <button class="logout_close btn btn-green">Cancel</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js/sqLite.js"></script>
+    <script src="js/flex.js"></script>
+    <script src="js/header.js"></script>
+
+    <script src="js/plugins/popupoverlay/logout.js"></script>
+    <script src="js/plugins/hisrc/hisrc.js"></script>
+    <script type="text/javascript" src="js/mainMenu.js"></script>
+    <script type="text/javascript" src="js/plugins/moment/moment.min.js"></script>
+    <script src="js/plugins/datatables/jquery.dataTables.js"></script>
+    
+    <script src="js/home.js"></script>
+    <!--PURCHASE ORDER SCRIPT-->
+    <!-- <script type="text/javascript" src="js/version.js"></script>-->
+    <!--<script type="text/javascript" src="js/create_grn.js"></script>-->
+<div id="loading">
+  <div class="txt"></div>
+  <div class="bg"></div>
+</div>
+</body>
+</html>

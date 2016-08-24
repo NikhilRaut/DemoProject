@@ -1,0 +1,19 @@
+package com.nikhil.syncadapterdemo.sync;
+
+/**
+ * Created by Raj on 18/11/15.
+ */
+public enum SyncEntity {
+    USER,
+    USER_ATTRIBUTES,
+    USER_DETAILS_ADDRESS,
+    USER_DETAILS_CONTACT,
+    USER_DETAILS_OTHER,
+    USER_REQUEST,
+    USER_REQUEST_FEEDBACK,
+    USER_PRODUCT,
+    USER_PRODUCT_DETAILS,
+    USER_PRODUCT_FEEDBACK,
+    USER_PRODUCT_FOLLOW,
+    USER_PRODUCT_UNFOLLOW
+}

@@ -1,0 +1,145 @@
+.navbar-top {
+        background: #ECF0F1;
+        box-shadow: 1px 1px 1px 1px #888;
+    }
+
+    .header-brand-logo {
+        margin-top: -12px;
+        width: 100%;
+    }
+
+    .fa-bars {
+        color: #000;
+    }
+
+    .display-mobile {
+        display: none;
+        width: 40px;
+        height: 45px;
+        margin-top: -12px;
+        border: 1px solid #fff;
+    }
+
+    .fa-caret-down,
+    .fa-user {
+        color: #000;
+    }
+
+    .navbar-top>.nav-top>.nav>li>a:hover .fa-caret-down,
+    .navbar-top>.nav-top>.nav>li>a:focus .fa-caret-down {
+        color: #FFF;
+    }
+
+    .navbar-top>.nav-top>.nav>li>a:hover .fa-user,
+    .navbar-top>.nav-top>.nav>li>a:focus .fa-user {
+        color: #FFF;
+    }
+
+    .navbar-top>.nav-top>.nav>li>a:hover .header-user-name,
+    .navbar-top>.nav-top>.nav>li>a:focus .header-user-name {
+        color: #FFF;
+    }
+
+    .back-btn-li:hover,
+    .back-btn-li:focus,
+    .user-img-mob:hover,
+    .user-img-mob:focus {
+        background: #ECF0F1 !important;
+    }
+
+    #wrapper {
+        width: 100%;
+        background: #fff;  
+    }
+
+    .img-logout {
+        width: 40%;
+        margin-top: -80px;
+    }
+
+    .header-user-name {
+        color: #000;
+        font-weight: 700;
+    }
+
+    .go-back-mob {
+        display: none;
+        width: 30px;
+        margin: 10px 5px 0px -22px;
+    }
+    
+ /*   .page-content {
+        margin-top: 50px;
+    }*/
+
+
+    @media (max-width: 767px) {
+        .header-brand-logo {
+            margin: 0 auto;
+            width: 50%;
+        }
+
+        .navbar-brand {
+            background: #FFF;
+            padding: 5px 20px;
+        }
+
+        .display-mobile,
+        .go-back-mob {
+            display: inline-block;
+        }
+
+        .display-web, .hide-mobile {
+            display: none;
+        }
+        .header-user-img {
+            margin-top: -12px;
+        }
+
+        .page-content {
+            margin-top: 0;
+        }
+    }
+
+    @media (min-width: 481px) and (max-width: 767px) {
+        .user-info-mob {
+            width: 75%;
+            text-align: center;
+        }
+    }
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        .user-info-mob {
+            width: 62%;
+            text-align: center;
+        }
+    }
+ 
+    .user-downArrow {
+        color: #000;
+        background-color: none;
+    }
+
+    .user-downArrow:hover, .user-downArrow:focus {
+        color: #fff;
+        background-color: #142434;
+    }
+
+    .header-user-img {
+        display: inline-block;
+        width:40px; 
+        height: 45px;
+        margin-top: -14px;
+    }
+
+    .header_logo_menu {
+        text-align: center;
+    }
+
+    #page-custom-bar {
+        padding: 10px;
+        color: #FFF;
+        background: url(../img/dss_headerbg.png) repeat-x !important;
+    }
+
+    

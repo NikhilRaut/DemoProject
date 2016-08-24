@@ -1,0 +1,21 @@
+{
+    "brand": "Solidus",
+    "brand_logo" : "img/Solidus_Logo.png",
+    "type": "landing",
+    "list_img" : "arrow_img_path.png",
+    "legends": [
+        {
+            "option_name": "Manufacturing",
+            "className":"bajaj-bv-motorcycles",
+            "background": "",
+            "border" : "",
+            "img_path" : "img/solidus-parts.jpeg",
+            "font_color":  "",
+            "url":[
+                {
+                    "name":"Productivity & Efficiency",
+                    "href":"PneService.html"
+                }]
+        }
+    ]
+}

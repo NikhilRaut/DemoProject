@@ -1,0 +1,168 @@
+{	
+
+
+	"grn":[
+		{
+			"grn_number":"",
+			"reporting_date":"",
+			"reporting_time":"",
+			"uploading_date":"",
+			"delay_type":"",
+			"reason_of_delay":"",
+			"image":""
+
+		}
+	],
+
+	"dealer":[
+	 	{
+	 		"dealer_name":"",
+			"dealer_code":"",
+			"pdi_manager":""
+	 	}
+	],
+
+	"driver":[
+		 {
+		 	"driver_name":"",
+            "driver_image":"",
+            "driver_signature":"",
+            "pdiManager_signature":""
+
+		 }
+	],
+
+	"trip":[
+
+		{
+		 	"tripno":"",
+			"created_date":"",
+			"tripno":"",
+			"modified_date":"",
+			"truckno":"",
+			"invoice":[
+			 	{
+			 		"invoiceno":"",
+			 		"plant":"",
+			 		"created_date":"",
+			 		"modified_date":"",
+			 		"billqty":"",
+			 		"tripno":"tripno"
+			 	},
+			 	{
+			 		"invoiceno":"",
+			 		"plant":"",
+			 		"created_date":"",
+			 		"modified_date":"",
+			 		"billqty":"",
+			 		"tripno":"tripno"
+			 	},
+			 	{
+			 		"invoiceno":"",
+			 		"plant":"",
+			 		"created_date":"",
+			 		"modified_date":"",
+			 		"billqty":"",
+			 		"tripno":"tripno"
+			 	},
+			 	{
+			 		"invoiceno":"",
+			 		"plant":"",
+			 		"created_date":"",
+			 		"modified_date":"",
+			 		"billqty":"",
+			 		"tripno":"tripno"
+			 	}
+			 ]
+
+		}
+	],
+
+	"chassis":[
+		{
+			"chassisno":"",
+			"damage":[
+				{
+					"damage_location":"",
+					"damage_detail":"",
+					"damage_type":"",
+					"damage_cause":"",
+					"attachment":""
+
+				},
+				{	
+					"damage_location":"",
+					"damage_detail":"",
+					"damage_type":"",
+					"damage_cause":"",
+					"attachment":""
+
+				}
+			],
+			"shortage":[
+				{
+					 "shortage_brand_variant":"",
+					 "shortage_part":"",
+					 "quantity":"",
+					 "attachment":""
+
+				},
+				{
+					 "shortage_brand_variant":"",
+					 "shortage_part":"",
+					 "quantity":"",
+					 "attachment":""
+
+				}
+				
+			]
+
+		},
+
+		{
+
+			"chassisno":"",
+			"damage":[
+				{
+					"damage_location":"",
+					"damage_detail":"",
+					"damage_type":"",
+					"damage_cause":"",
+					"attachment":""
+
+				},
+				{	
+					"damage_location":"",
+					"damage_detail":"",
+					"damage_type":"",
+					"damage_cause":"",
+					"attachment":""
+
+				}
+			],
+			
+			"shortage":[
+				{
+					 "shortage_brand_variant":"",
+					 "shortage_part":"",
+					 "quantity":"",
+					 "attachment":""
+
+				},
+				{
+					 "shortage_brand_variant":"",
+					 "shortage_part":"",
+					 "quantity":"",
+					 "attachment":""
+
+				}
+				
+			]
+
+		}
+		
+	]
+
+
+
+}
